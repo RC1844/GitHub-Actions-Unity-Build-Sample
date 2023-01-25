@@ -48,6 +48,14 @@ jobs:
           name: ${{ steps.getManualLicenseFile.outputs.filePath }}
           path: ${{ steps.getManualLicenseFile.outputs.filePath }}
 
+      - name: set UNITY_LICENSE
+        uses: hmanzur/actions-set-secret@v2.0.0
+        with:
+          name: "UNITY_LICENSE"
+          value: echo "${{ steps.getManualLicenseFile.outputs.filePath }}"
+          repository: ${{ github.repository }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
   # 构建
   build:
     needs: [checklicense]
