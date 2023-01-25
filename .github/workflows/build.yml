@@ -24,8 +24,8 @@ jobs:
       - name: Check whether unity activation requests should be done
         id: checklicense_job
         run: |
-          echo "Skip activation job: ${{ env.UNITY_LICENSE != '' }}"
-          echo "::set-output name=is_unity_license_set::${{ env.UNITY_LICENSE != '' }}"
+          echo "Skip activation job: ${{ secrets.UNITY_LICENSE != '' }}"
+          echo "::set-output name=is_unity_license_set::${{ secrets.UNITY_LICENSE != '' }}"
 
   # 获取激活文件
   activation:
