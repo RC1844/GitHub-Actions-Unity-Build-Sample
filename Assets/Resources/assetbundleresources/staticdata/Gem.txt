@@ -1,0 +1,1 @@
+GemID,Color,Icon,AttributeGroup,IsGeneric,RemoveCost,UpgradeItemID,MoneyCost

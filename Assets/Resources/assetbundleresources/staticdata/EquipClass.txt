@@ -1,0 +1,1 @@
+ClassGroup,ID,ExclusiveRole,ExclusiveAttr,ExclusiveRate,ExclusiveDescription,NextItemID,GemHole,CostMoney,material_1,cost_1,material_2,cost_2,material_3,cost_3,material_4,cost_4,material_5,cost_5,VersionControl

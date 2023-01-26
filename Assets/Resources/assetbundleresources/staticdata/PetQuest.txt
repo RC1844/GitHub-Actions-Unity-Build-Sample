@@ -1,0 +1,1 @@
+ID,Type,Weight,SortValue,Group,Level,Conditions,NeedPetCount,Limit_Low,Limit_High,Title,Info,Icon,CostMins,CDHours,Drop_Normal,Drop_Big,PetFeel_Normal,PetFeel_Big,VersionControl

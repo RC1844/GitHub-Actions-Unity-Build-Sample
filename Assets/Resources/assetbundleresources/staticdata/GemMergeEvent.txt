@@ -1,0 +1,1 @@
+EventID,Weights,Description,PetID,Exp,ReturnGemCount,Discount

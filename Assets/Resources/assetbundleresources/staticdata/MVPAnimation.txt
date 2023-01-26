@@ -1,0 +1,3 @@
+ID,RoleID,Name,Icon,AnimationName
+10001,10001,T_MVPAnimation_Name_10001,Icon/Icon01_Head/Icon01_Head_B_P001,P001_idle_animation2
+80001,80001,T_MVPAnimation_Name_10001,Icon/Icon01_Head/Icon01_Head_B_P008,P008_idle_animation2

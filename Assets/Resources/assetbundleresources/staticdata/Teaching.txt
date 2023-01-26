@@ -1,0 +1,1 @@
+ID,INDEX,ShowType,Focus,FocusTag,Condition_TeachID,Condition_Stage,Condition_TeachID_Disable,Condition_Proficiency,Condition_Role,Condition_NoRole,Condition_Item,Condition_NoItem,TriggerType,NoAutoSave,ContinueTeachID,Sound,Info,Info2,SetComplated_OnStart,SetComplated_OnClick,TimePause,Prefab

@@ -1,0 +1,1 @@
+ID,RoleID,Icon,Type,UnlockTip,FileName,RoleCondition,ItemCondition,IntimacyLV

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 58c301ff22064318a555c1f3a58d87a7
+timeCreated: 1674744617
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "NotoSansCJKsc-Black"
+  fontNames:
+  - Noto Sans CJK SC
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 4ac289bc476d4756a5f84abc0af9dc42
+timeCreated: 1674744608
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 0
+  forceTextureCase: -2
+  characterSpacing: 1
+  characterPadding: 0
+  includeFontData: 1
+  fontName: "SkillKeyFont"
+  fontNames: []
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

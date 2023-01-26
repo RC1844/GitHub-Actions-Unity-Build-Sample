@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Fx
+  - PlayerLight
+  - UserControl
   layers:
   - Default
   - TransparentFX
@@ -13,31 +16,34 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - StaticScene
+  - Enemy
+  - Missile
+  - Player
+  - EnemyMissile
+  - UIModel
+  - Deadbody
+  - EnemyBoss
+  - EnemyPlayer
+  - Floor
+  - GameWall
+  - SceneWall
+  - GhostPlayer
+  - BreakObject
+  - BreakObjectByEnemyMissile
+  - Grass
+  - PostProcess
+  - PlayerShield
+  - EnemyShield
+  - BattleRoyaleCircle
   - 
   - 
   - 
   - 
   m_SortingLayers:
-  - name: Default
+  - name: "Default"
     uniqueID: 0
+    locked: 0
+  - name: "Missile"
+    uniqueID: 1908239057
     locked: 0

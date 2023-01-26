@@ -1,0 +1,1 @@
+SetID,SetType,RoleType,SetReviewItemIDs,SetAttrID_2,SetAttrID_4,SetAttrID_6,WholePurpleEffect,WholeGoldEffect,LobbyPurpleEffect,LobbyGoldEffect,SetName,Icon,SetInfo_2,SetInfo_4,SetInfo_6,description,Version

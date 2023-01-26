@@ -1,0 +1,1 @@
+LoveLevel,LoveValue,ItemID,ItemNumber,VersionControl

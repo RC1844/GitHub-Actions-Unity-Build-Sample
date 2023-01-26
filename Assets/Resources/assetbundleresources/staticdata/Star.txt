@@ -1,0 +1,1 @@
+StarID,RoleID,Page,Level,StarPosition,Frame,Base,Junction,NeedDKP,NeedCount,AttributeID,VERSION_SWITCH,Remarks

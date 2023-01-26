@@ -1,0 +1,1 @@
+ID,GroupID,AttributeID,ValueMin,ValueMax,Absolute,Weight

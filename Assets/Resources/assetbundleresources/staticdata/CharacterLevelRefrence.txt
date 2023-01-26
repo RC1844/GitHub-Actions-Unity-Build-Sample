@@ -1,0 +1,1 @@
+Group,Level,Exp,BasicAttributeID,LevelRate

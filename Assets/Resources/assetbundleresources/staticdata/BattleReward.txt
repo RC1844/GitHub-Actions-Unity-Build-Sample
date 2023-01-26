@@ -1,0 +1,10 @@
+Type,Rank,FirstWin,Win,Lose,MVP,ScoreAppend,TeamAddition,ADAddition,ADExtra
+PVP,,,202-205,203,204-205,,,,
+BattleRoyale,1,,237-205,,,10,,,
+BattleRoyale,2,,238-205,,,5,,,
+BattleRoyale,3,,239-205,,,2,,,
+BattleRoyale,4,,240,,,,,,
+BattleRoyale,5,,240,,,,,,
+BattleRoyale,6,,240,,,,,,
+BattleRoyale,7,,240,,,,,,
+BattleRoyale,8,,240,,,,,,

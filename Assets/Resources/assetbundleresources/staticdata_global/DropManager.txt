@@ -1,0 +1,17 @@
+ID,ShowItemsByDropTag,ShowItemsByItemTag,DropTip,DescKey,DescTagKey,MainDropMax,IsMergeShow
+101,,,T_DropManager_DropTip_101,,,,
+102,,,T_DropManager_DropTip_101,,,,
+103,,,T_DropManager_DropTip_101,,,,
+104,,,T_DropManager_DropTip_101,,,,
+105,,,T_DropManager_DropTip_101,,,,
+106,,,T_DropManager_DropTip_101,,,,
+107,,,T_DropManager_DropTip_101,,,,
+108,,,T_DropManager_DropTip_101,,,,
+109,,,T_DropManager_DropTip_101,,,,
+110,,,T_DropManager_DropTip_101,,,,
+900001,,,,,,1,false
+910001,,,,,,10,false
+990001,,,,,,1,false
+991001,,,,,,10,false
+990002,,,,,,1,false
+991002,,,,,,10,false

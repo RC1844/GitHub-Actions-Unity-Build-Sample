@@ -1,0 +1,1 @@
+ID,RoleID,PartnerID,PartnerClass,PartnerLevel,Attribute,Icon,Name,Description

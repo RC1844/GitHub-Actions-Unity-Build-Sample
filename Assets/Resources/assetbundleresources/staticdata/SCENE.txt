@@ -1,0 +1,14 @@
+ID,Name,StoreID,Type,Size,Time,CanRecoveryHP,LittleMap,Description,Icon,BgPicture,LevelName,LevelDesign,SceneObjectSetting,DropID,LoseDropID,ConditionItemIDs,GirlCondition,QuestCondition,FightExpCondition,TeachingIndex,Activity,VERSION_SWITCH
+,,,,100,,,,,,Bg000,Arnor_use,LD_TestSkill,SMTestSkill,,,,,,,,,
+1,,,,130,,,Icon/Icon09_Map/UI50_Map_1,,,Bg000,SMA_01,LD_SMA_01,SMA01,,,,,,,,,
+2,,,,140,,,Icon/Icon09_Map/UI50_Map_2,,,Bg000,SMA_02,LD_SMA_02,SMA02,,,,,,,,,
+3,,,,140,,,Icon/Icon09_Map/UI50_Map_3,,,Bg000,SMA_03,LD_SMA_03,SMA03,,,,,,,,,
+100,,,,130,,,Icon/Icon09_Map/UI50_Map_1,,,Bg000,smA_00,LD_Teaching,,,,,,,,,,
+4,T_SCENE_Name_4,,1,130,180,,Icon/Icon09_Map/UI50_Map_1,T_SCENE_Description_4,Icon/Icon08_Mode/Icon08_Mode_02,Bg000,RS_01,LD_RS_01,RS01,,,,,,,,,
+5,T_SCENE_Name_5,,3,140,180,,Icon/Icon09_Map/UI50_Map_1,T_SCENE_Description_5,Icon/Icon08_Mode/Icon08_Mode_01,Bg000,RS_02,,SMA_arnortest,,,,,106,,,,
+6,T_SCENE_Name_6,,5,130,120,,Icon/Icon09_Map/UI50_Map_1,,Icon/Icon08_Mode/Icon08_Mode_04,Bg000,RS_03,LD_RS_01,RS03,233-234,235-236,,3,,,70,,
+7,T_SCENE_Name_7,,6,255,300,FALSE,Icon/Icon09_Map/UI50_Map_3,T_SCENE_Description_7,Icon/Icon08_Mode/Icon08_Mode_03,Bg000,SMA_04,LD_RS_01,SMA_04,233-234,235-236,,,,300,80,,53
+8,T_SCENE_Name_8,,3,255,300,FALSE,Icon/Icon09_Map/UI50_Map_3,T_SCENE_Description_7,Icon/Icon08_Mode/Icon08_Mode_03,Bg000,SMA_05,LD_RS_01,SMA05,233-234,235-236,,,,300,80,,66
+99,T_SCENE_Name_99,,4,,,,,T_SCENE_Description_99,Icon/Icon07_RoomCard/Icon07_RoomCard_00,,RS_Room,,,,,,,,,,,
+101,T_SCENE_Name_101,400003-400004,4,,,,,T_SCENE_Description_101,Icon/Icon07_RoomCard/Icon07_RoomCard_01,,RS_Room_001,,,,,350101,,,,50,,
+9,T_SCENE_Name_9,,7,130,120,FALSE,Icon/Icon09_Map/UI50_Map_1,,Icon/Icon08_Mode/Icon08_Mode_04,Bg000,RS_03,LD_RS_01,RS03,233-234,,,,,,,,

@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -717088960, guid: c705dda2eaffac996b2458b5dca9d6ea, type: 3}
+  m_Name: "MiscSetting"
+  m_EditorClassIdentifier: 
+  LobbyPollingPeriod: 2
+  EntryIP: "192.168.40.49"
+  EntryPort: 6620
+  GameArea: 2
+  ErogesChannel: 2
+  EditorRunAssetBundle: 0
+  IsNeedBuyCheckMessage: 1
+  UseUnityIAP: 0
+  UseUnityAD: 0
+  UseGoogleAD: 0
+  AppStoreTypes: 08000000
+  CanGoogleLogin: 0
+  CanGameCenterLogin: 0
+  CanNutakuLogin: 1
+  CanEcchiGamerLogin: 0
+  CanErogesLogin: 0
+  CanAuerLogin: 0
+  GoogleSignInKey: "554880379617-tvo4qsfat9aqeams869r8o8hgn3q7sq5.apps.googleusercontent.com"
+  GooglePublicKey: "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnEZ\x2fLqxWKeXQOuNTwHfOesA5ud6MunozXjnFak86TD8AHfjOlkd4sPCz3bcJladqc3K6k3n2r2fXy5feKi4EesgS0+U4iXQ2MIdjdgKvRcewppO8VGLltm0welxkw64FJkupkiUcGuYdmdlUSx8jB\x2fcBm\x2f+KKNTEDiLWXCOIU\x2fhfukyjzHuKDM4rGR3MIDuopcaYVHdRi5+KJZOrSnD6S\x2fVvFe7qHCXynYRtoBYMfG9u33VFQxKAO6j3UUjvOuQCcnJy\x2f9EUeE5SU88q6bEqIfYwNJUq9Ms+ou5k4GVa\x2fAJMHe5zJZ2F8OgUHOS+xCQHpOOOeWjwMbizWF\x2fqUrh6bQIDAQAB"
+  UseADJust: 1
+  Eroges_TapDB_ID: "n90ho7z0rruuoajp"
+  AuerDB_ID: "8DA02068F96E4C11933B2270A6260C31"
+  GoogleStoreURL: "https:\x2f\x2fl.tyrantdb.com\x2fKJGEG68R"
+  AppleStoreURL: "https:\x2f\x2fl.tyrantdb.com\x2fKJGEG68R"
+  ContactServiceURL: "https:\x2f\x2fnutakupublishing.helpshift.com\x2fa\x2fcum-gun\x2f?p=all&contact=1"
+  CommentURL: 
+  ShareSubject: "Squirt\u2606Pew! - Secret Coaching"
+  ShareText: "\u904E\u4F86\u8ABF\u6559\u4F60\u7684\u6230\u968A\u5973\u5B69~\u2665 \u64AB\u6478\u9019\u88E1\u8B93\u5973\u5B69\u5011\u986B\u6296 https:\x2f\x2fwww.nijiyome.com\x2fapp\x2fstart\x2f563"
+  AutoLanguage: 0
+  DefaultLanguage: 2
+  IgnoreLanguages: 
+  IsR18: 1
+  PackageName: 
+  IsFPSMouse: 0
+  IsShowStartSoundWarnMessage: 0
+  UseServerPush: 0
+  IsForceWebSocket: 0
+  DLsite_AppID: "563"
+  DLsite_Domain: "api.nijiyome.jp"
+  DLsite_ConsumerKey: "f0554b4f1c9d910fc2c5472d2e6932"
+  DLsite_OAuthConsumerSecret: "d9d213f536"
+  DLsite_LoginApiURL: "\x2fv2\x2fapi\x2foauth2\x2ftoken"
+  FlashTime: 0.3
+  CharacterMaterialColorName: "_1st_ShadeColor"
+  RimThreshold: 0
+  RimOriginColor: {r: 0, g: 0, b: 0, a: 1}
+  RimThreholdColor: {r: 2, g: 1.88, b: 1.2, a: 2}
+  FreezeColor: {r: 0.2283737, g: 0.824391, b: 0.9411765, a: 1}
+  FlashPingColor: {r: 2, g: 2, b: 2, a: 1}
+  FlashPongColor: {r: 2, g: 1, b: 1, a: 1}
+  HitTextHeight: -50
+  HitTextScale: {x: 0.72, y: 0.81, z: 1}
+  HitColor: {r: 0.8466696, g: 0.9684852, b: 0.9926471, a: 1}
+  CriticalHitTextScale: {x: 1.3, y: 1.3, z: 1}
+  CriticalHitColor: {r: 1, g: 0.8, b: 0.1333333, a: 1}
+  BuffTextHeight: 110
+  BuffHitColor: {r: 0.003921569, g: 1, b: 0.4196079, a: 1}
+  HurtHitColor: {r: 1, g: 0.1176471, b: 0.1176471, a: 1}
+  MPAddColor: {r: 0, g: 0, b: 1, a: 1}
+  MPCostColor: {r: 1, g: 0, b: 1, a: 2}
+  DeadMaterial: {fileID: 2100000, guid: 151528f7372c4061a80bdf8c8fe17f73, type: 2}
+  InvisibleMaterial: {fileID: 2100000, guid: b5989deec1d14144958fbe12fcb1822d, type: 2}
+  TranslucentMaterial: {fileID: 2100000, guid: e3f8fbfe9d124b1eb41256452830e3a0, type: 2}
+  TranslucentSceneMaterial: {fileID: 2100000, guid: e3f8fbfe9d124b1eb41256452830e3a0, type: 2}
+  AutoTurnShootAngle: 90
+  RotationSpeed: 20
+  ScreenEffectLength: 15
+  MonsterRotationMotionAngle: 15
+  TransparentPlayer: 0
+  BloodBarLocScale: {x: 0.1, y: 0.1, z: 1}
+  BloodNameLocScale: {x: 0.1, y: 0.1, z: 1}
+  ShakeDistance: 15
+  特效_隨機技能: {fileID: 1791024914444499092, guid: 0d4e161227f648d0a069e6565231d48e, type: 2}
+  特效_分數碎片: {fileID: 1791024914444499092, guid: fcc90d78c0924ba783891d82a5d74958, type: 2}
+  特效_傳送門: {fileID: 1791024914444499095, guid: b4b637fd27be47489fd2a20f63ab1ad1, type: 2}
+  特效_傳送門_敵人: {fileID: 1791024914444499095, guid: e432f1e6a96c46b89170bffc0918452d, type: 2}
+  怪物物件: {fileID: 1791024914444499157, guid: 7616d4ffaebd4be8b045e7e3180b57a8, type: 2}
+  特效_得到隨機技能: {fileID: 1791024914444499095, guid: 93295cabb9714cbb87eadf7ff3c9f835, type: 2}
+  特效_得到分數碎片: {fileID: 1791024914444499096, guid: c0acade2150f479bb55eff255fa9f401, type: 2}
+  特效_使用傳送門: {fileID: 1791024914444499092, guid: b89d934c6dea4a8490d78e4c23b0f037, type: 2}
+  特效_MonsterShow: {fileID: 1791024914444499095, guid: c5464b091e16488d8f54733c420e3ee7, type: 2}
+  EffectOnKill: {fileID: 1791024916340324534, guid: f0655c301014477cb2df910ab21332e3, type: 2}
+  EffectOnGift: {fileID: 1791024916340324517, guid: 62c3e399e8d84e22afb0bb2d468a2977, type: 2}
+  TestIphoneX: 0
+  IphoneXOffset: 60
+  ChatBattlePassColor: {r: 0.9294118, g: 0, b: 1, a: 2}
+  ChatNormalColor: {r: 0.4901961, g: 0.4901961, b: 0.4901961, a: 1}
+  NotOwnedColor: {r: 0.7, g: 0.7, b: 0.7, a: 1}
+  FadeBlackTexture: {fileID: 2800000, guid: 073da218ac03412b8ee126a3b8808458, type: 3}
+  AutoAimDistance: 10
+  BGMVolume: 1
+  DialogBGMVolume: 0.4
+  AudioVolume: 1
+  AudioLimitCount: 15
+  AudioIs3D: 1
+  Audio3DMax: 90
+  Audio3DMin: 12
+  CameraRotationSpeed: 10
+  CameraZoomInSpeed: 9
+  CameraZoomOutSpeed: 12
+  CameraDragRotationSpeed: 0.25
+  RollOperatorSpeed: 85
+  HitCameraSetting:
+    Vector: {x: 0.5, y: 0.5, z: 0.5}
+    Frequency: 30
+    ShakePeriod: 0.1
+  CameraSetting:
+    Length: 7.5
+    Height: 4.3
+    TargetOffset: 3
+    ShiftX: 1.4
+  CameraSettingNear:
+    Length: 7.5
+    Height: 4.3
+    TargetOffset: 3
+    ShiftX: 0.8
+  AIPVPCameraSetting:
+    Length: 7
+    Height: 2.5
+    TargetOffset: 1.5
+    ShiftX: 3
+  CacheSkillCTime: 2
+  CacheSkillCTime_PointDisplay: 0.5

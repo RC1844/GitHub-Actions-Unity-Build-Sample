@@ -1,0 +1,1 @@
+ID,EQUIP_NAME,Live2DPartNames,RoleImage,RoleCloseEye

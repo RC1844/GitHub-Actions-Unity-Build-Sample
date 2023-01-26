@@ -1,0 +1,5 @@
+Name,Min,Max
+DEF,0.02,0.1
+CRT,0.01,0.05
+ChangeRoleCD,1,10
+StageTime,,

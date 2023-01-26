@@ -1,0 +1,1 @@
+ID,Class,NowStars,LevelGroup,StatusOnStart,PassiveAttribute,CostMoney,FragmentID,FragmentCount,PassiveInfoTitle,PassiveInfo

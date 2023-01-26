@@ -1,0 +1,1 @@
+FateID,FateName,FateInfo,PetID,PartnerID,Class,Awakening,FateSkill,SkillStatus

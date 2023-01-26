@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 740ecbc9c62d4a24a107bde8102b346d
+timeCreated: 1674744607
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: UI50_Global_empty
+    21300002: UI50_Btn_SkillCancel
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 65
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 65
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI50_Global_empty
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 138
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: 16, y: 16}
+        - {x: -16, y: -16}
+      - - {x: -16, y: -16}
+        - {x: 16, y: 16}
+        - {x: 16, y: -16}
+      physicsShape:      
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI50_Btn_SkillCancel
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 200
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100, y: -58}
+        - {x: -100, y: 69}
+        - {x: -74, y: -84}
+      - - {x: -60, y: 100}
+        - {x: -74, y: -84}
+        - {x: -100, y: 69}
+      - - {x: -63, y: -92}
+        - {x: -74, y: -84}
+        - {x: -60, y: 100}
+      - - {x: -49, y: -100}
+        - {x: -63, y: -92}
+        - {x: -60, y: 100}
+      - - {x: 53, y: 100}
+        - {x: -49, y: -100}
+        - {x: -60, y: 100}
+      - - {x: 54, y: -100}
+        - {x: -49, y: -100}
+        - {x: 53, y: 100}
+      - - {x: 87, y: 76}
+        - {x: 54, y: -100}
+        - {x: 53, y: 100}
+      - - {x: 67, y: -97}
+        - {x: 54, y: -100}
+        - {x: 87, y: 76}
+      - - {x: 100, y: -58}
+        - {x: 67, y: -97}
+        - {x: 87, y: 76}
+      - - {x: 100, y: 49}
+        - {x: 100, y: -58}
+        - {x: 87, y: 76}
+      physicsShape:      
+      - - {x: 60, y: -22}
+        - {x: 62, y: -16}
+        - {x: 63, y: -11}
+        - {x: 63, y: 11}
+        - {x: 61, y: 23}
+        - {x: 52, y: 39}
+        - {x: 39, y: 52}
+        - {x: 18, y: 63}
+        - {x: -12, y: 63}
+        - {x: -23, y: 61}
+        - {x: -49, y: 43}
+        - {x: -62, y: 19}
+        - {x: -62, y: -18}
+        - {x: -49, y: -43}
+        - {x: -33, y: -54}
+        - {x: -17, y: -63}
+        - {x: 14, y: -63}
+        - {x: 27, y: -59}
+        - {x: 39, y: -52}
+        - {x: 54, y: -35}
+        - {x: -21, y: -51}
+        - {x: -32, y: -44}
+        - {x: -47, y: -27}
+        - {x: -51, y: -17}
+        - {x: -53, y: -8}
+        - {x: -54, y: 7}
+        - {x: -53, y: 8}
+        - {x: -50, y: 22}
+        - {x: -43, y: 32}
+        - {x: -26, y: 48}
+        - {x: -16, y: 52}
+        - {x: -7, y: 54}
+        - {x: 8, y: 55}
+        - {x: 9, y: 54}
+        - {x: 23, y: 51}
+        - {x: 33, y: 44}
+        - {x: 49, y: 27}
+        - {x: 52, y: 20}
+        - {x: 55, y: 8}
+        - {x: 55, y: -8}
+        - {x: 51, y: -21}
+        - {x: 45, y: -33}
+        - {x: 39, y: -40}
+        - {x: 28, y: -48}
+        - {x: 18, y: -52}
+        - {x: 9, y: -54}
+        - {x: -6, y: -55}
+        - {x: -7, y: -54}
+        - {x: -17, y: 24}
+        - {x: -23, y: 15}
+        - {x: -23, y: -22}
+        - {x: 23, y: -22}
+        - {x: 23, y: 18}
+        - {x: 14, y: 24}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

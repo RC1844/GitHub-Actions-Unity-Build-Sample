@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1274797482, guid: c705dda2eaffac996b2458b5dca9d6ea, type: 3}
+  m_Name: "AssetBundleSettings"
+  m_EditorClassIdentifier: 
+  IgnoreFiles:
+  - "AssetBundleResources\x2fScenes\x2flogin"
+  - "ArtResources\x2fL2D\x2fE003"
+  - "ArtResources\x2fL2D\x2fE005"
+  - "ArtResources\x2fL2D\x2fE007"
+  - "ArtResources\x2fL2D\x2fE009"
+  - "ArtResources\x2fL2D\x2fE011"
+  - "ArtResources\x2fL2D\x2fE013"
+  - "ArtResources\x2fUI\x2fUI70_Fairy\x2fUI71_FairyImage\x2fSHOW_E003"
+  - "ArtResources\x2fUI\x2fUI70_Fairy\x2fUI71_FairyImage\x2fSHOW_E005"
+  - "ArtResources\x2fUI\x2fUI70_Fairy\x2fUI71_FairyImage\x2fSHOW_E007"
+  - "ArtResources\x2fUI\x2fUI70_Fairy\x2fUI71_FairyImage\x2fSHOW_E009"
+  - "ArtResources\x2fUI\x2fUI70_Fairy\x2fUI71_FairyImage\x2fSHOW_E011"
+  - "ArtResources\x2fUI\x2fUI70_Fairy\x2fUI71_FairyImage\x2fSHOW_E013"
+  - "AssetBundleResources\x2fLevelDesign\x2fSample1-4to1-5"
+  - "AssetBundleResources\x2fLevelDesign\x2fSample1-8"
+  - "AssetBundleResources\x2fLevelDesign\x2fSample1-6"
+  - "AssetBundleResources\x2fLevelDesign\x2fSample1-9"
+  IgnorePaths:
+  - "AssetBundleResources\x2fScenes"
+  - "AssetBundleResources\x2fSound\x2fpet_E003"
+  - "AssetBundleResources\x2fSound\x2fpet_E005"
+  - "AssetBundleResources\x2fSound\x2fpet_E007"
+  - "AssetBundleResources\x2fSound\x2fpet_E009"
+  - "AssetBundleResources\x2fSound\x2fpet_E011"
+  - "AssetBundleResources\x2fSound\x2fpet_E013"
+  - "AssetBundleResources\x2fSound\x2fstory_E003"
+  - "AssetBundleResources\x2fSound\x2fstory_E005"
+  - "AssetBundleResources\x2fSound\x2fstory_E007"
+  - "AssetBundleResources\x2fSound\x2fstory_E009"
+  - "AssetBundleResources\x2fSound\x2fstory_E011"
+  - "AssetBundleResources\x2fSound\x2fstory_E013"
+  IgnoreMaru: 0
+  IgnoreFilesMaru:
+  - "ArtResources\x2fL2D\x2fE014"
+  - "ArtResources\x2fL2D\x2fE016"
+  - "ArtResources\x2fL2D\x2fE017"
+  - "ArtResources\x2fUI\x2fUI70_Fairy\x2fUI71_FairyImage\x2fSHOW_E014"
+  - "ArtResources\x2fUI\x2fUI70_Fairy\x2fUI71_FairyImage\x2fSHOW_E016"
+  - "ArtResources\x2fUI\x2fUI70_Fairy\x2fUI71_FairyImage\x2fSHOW_E017"
+  IgnorePathsMaru:
+  - "AssetBundleResources\x2fSound\x2fpet_E014"
+  - "AssetBundleResources\x2fSound\x2fpet_E016"
+  - "AssetBundleResources\x2fSound\x2fpet_E017"
+  - "AssetBundleResources\x2fSound\x2fstory_E014"
+  - "AssetBundleResources\x2fSound\x2fstory_E016"
+  - "AssetBundleResources\x2fSound\x2fstory_E017"
+  Ignore7: 0
+  IgnoreFiles7:
+  - "AssetBundleResources\x2fScenes\x2fS4"
+  - "AssetBundleResources\x2fMonster\x2fB009_000"
+  - "AssetBundleResources\x2fMonster\x2fM003_001"
+  - "AssetBundleResources\x2fMonster\x2fM004_004"
+  - "AssetBundleResources\x2fMonster\x2fM011_002"
+  - "AssetBundleResources\x2fMonster\x2fM019_001"
+  - "AssetBundleResources\x2fMonster\x2fM027_000"
+  - "AssetBundleResources\x2fMonster\x2fM027_003"
+  - "AssetBundleResources\x2fMonster\x2fM028_003"
+  - "AssetBundleResources\x2fMonster\x2fM033_004"
+  - "AssetBundleResources\x2fMonster\x2fM035_001"
+  - "AssetBundleResources\x2fMonster\x2fM036_003"
+  IgnorePaths7:
+  - "AssetBundleResources\x2fSound\x2fstory_7"
+  Ignore8: 0
+  IgnoreFiles8:
+  - "AssetBundleResources\x2fMonster\x2fB010_000"
+  - "AssetBundleResources\x2fMonster\x2fM020_001"
+  - "AssetBundleResources\x2fMonster\x2fM046_000"
+  - "AssetBundleResources\x2fMonster\x2fM049_000"
+  - "AssetBundleResources\x2fMonster\x2fB013_001"
+  - "AssetBundleResources\x2fMonster\x2fB013_003"
+  - "AssetBundleResources\x2fMonster\x2fB014_000"
+  - "AssetBundleResources\x2fMonster\x2fM037_000"
+  - "AssetBundleResources\x2fMonster\x2fM037_001"
+  - "AssetBundleResources\x2fMonster\x2fM038_000"
+  - "AssetBundleResources\x2fMonster\x2fM039_001"
+  - "AssetBundleResources\x2fMonster\x2fM041_000"
+  - "AssetBundleResources\x2fMonster\x2fM042_000"
+  - "AssetBundleResources\x2fMonster\x2fM044_000"
+  - "AssetBundleResources\x2fMonster\x2fM048_000"
+  IgnorePaths8:
+  - "AssetBundleResources\x2fSound\x2fstory_8"
+  Ignore9: 1
+  IgnoreFiles9: []
+  IgnorePaths9:
+  - "AssetBundleResources\x2fSound\x2fstory_9"
+  Ignore10: 1
+  IgnoreFiles10: []
+  IgnorePaths10:
+  - "AssetBundleResources\x2fSound\x2fstory_10"

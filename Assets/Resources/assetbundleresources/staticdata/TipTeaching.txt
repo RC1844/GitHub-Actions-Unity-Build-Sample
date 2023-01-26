@@ -1,0 +1,9 @@
+ID,Tip,Count,Priority
+1,T_TipTeaching_Tip_1,3,
+2,T_TipTeaching_Tip_2,3,
+3,T_TipTeaching_Tip_3,3,
+4,T_TipTeaching_Tip_4,3,
+5,T_TipTeaching_Tip_5,1,
+6,T_TipTeaching_Tip_6,1,
+7,T_TipTeaching_Tip_7,1,
+8,T_TipTeaching_Tip_8,1,1

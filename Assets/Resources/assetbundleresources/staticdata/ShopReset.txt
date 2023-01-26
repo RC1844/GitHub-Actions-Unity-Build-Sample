@@ -1,0 +1,2 @@
+ShopType,ResetType,ResetInterval,ResetCostsString
+7,,1,20-30-50

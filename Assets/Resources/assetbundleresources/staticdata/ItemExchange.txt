@@ -1,0 +1,3 @@
+ItemID,CostValue,DropTag,VersionControls
+1,0.5,skill_green-skill_sex-skill_blue-skill_love-B_Unlimitskill-A_Unlimitskill-S_Unlimitskill-B_LG-B_NG-B_HG-A_LG-A_NG-A_HG-S_LG-S_NG-S_HG,23,,,
+10,2,Skill_Apex-FairyGift,24,,,

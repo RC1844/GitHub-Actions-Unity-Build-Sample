@@ -1,0 +1,935 @@
+Key@Value
+Key@Value
+T_CHARACTER_SexTrainingTips_1001@「營養棒」道具不足，可透過戰鬥禮盒或任務獲得
+T_CollectionBook_GetDescription_S57@解鎖劇情「催眠！訓練中毒」取得
+T_CollectionBook_GetDescription_S98@解鎖劇情「絕佳的幸運日」取得
+T_CollectionBook_StaticImageTitle_1P10001@艾莉絲－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P1001@茜音－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P11001@操子－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P12001@莉莉婭－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P13001@病嬌醬－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P14001@復仇醬－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P15001@莫妮卡－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P16001@美遊－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P17001@楓子－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P18001@理世－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P19001@美雪－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P20001@葛蕾絲－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P2001@唯－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P21001@黛安娜－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P22001@Luna — Normal 2
+T_CollectionBook_StaticImageTitle_1P23001@神樂－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P24001@桔梗－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P25001@空－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P26001@安潔兒－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P27001@咲－经典立绘 2
+T_CollectionBook_StaticImageTitle_1P28001@朧－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P29001@亞海－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P30001@凱薩琳－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P3001@撫子－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P31001@沙也加－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P32001@小莓－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P33001@水紀－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P34001@夏若音－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P35001@海莉格－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P36001@蒂芬妮－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P37001@史嘉莉－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P38001@Momona - Classic 2
+T_CollectionBook_StaticImageTitle_1P39001@Hilda － Classic 2
+T_CollectionBook_StaticImageTitle_1P40001@Natasha - Classic 2
+T_CollectionBook_StaticImageTitle_1P4001@紗希－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P41001@Haruko - Classic 2
+T_CollectionBook_StaticImageTitle_1P42001@Aurora - Classic 2
+T_CollectionBook_StaticImageTitle_1P5001@燈歌－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P6001@莉娜－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P7001@加奈－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P8001@華乃－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P90001@Zumi－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P9001@伊月－經典立繪 2
+T_CollectionBook_StaticImageTitle_1P91001@小純－經典立繪 2
+T_CollectionBook_StaticImageTitle_P10001@艾莉絲－經典立繪 1
+T_CollectionBook_StaticImageTitle_P1001@茜音－經典立繪 1
+T_CollectionBook_StaticImageTitle_P11001@操子－經典立繪 1
+T_CollectionBook_StaticImageTitle_P12001@莉莉婭－經典立繪 1
+T_CollectionBook_StaticImageTitle_P13001@病嬌醬－經典立繪 1
+T_CollectionBook_StaticImageTitle_P14001@復仇醬－經典立繪 1
+T_CollectionBook_StaticImageTitle_P15001@莫妮卡－經典立繪 1
+T_CollectionBook_StaticImageTitle_P16001@美遊－經典立繪 1
+T_CollectionBook_StaticImageTitle_P17001@楓子－經典立繪 1
+T_CollectionBook_StaticImageTitle_P18001@理世－經典立繪 1
+T_CollectionBook_StaticImageTitle_P19001@美雪－經典立繪 1
+T_CollectionBook_StaticImageTitle_P20001@葛蕾絲－經典立繪 1
+T_CollectionBook_StaticImageTitle_P2001@唯－經典立繪 1
+T_CollectionBook_StaticImageTitle_P21001@黛安娜－經典立繪 1
+T_CollectionBook_StaticImageTitle_P22001@Luna — Normal 1
+T_CollectionBook_StaticImageTitle_P23001@神樂－經典立繪 1
+T_CollectionBook_StaticImageTitle_P24001@桔梗－經典立繪 1
+T_CollectionBook_StaticImageTitle_P25001@空－經典立繪 1
+T_CollectionBook_StaticImageTitle_P26001@安潔兒－經典立繪 1
+T_CollectionBook_StaticImageTitle_P27001@咲－经典立绘 1
+T_CollectionBook_StaticImageTitle_P28001@朧－經典立繪 1
+T_CollectionBook_StaticImageTitle_P29001@亞海－經典立繪 1
+T_CollectionBook_StaticImageTitle_P30001@凱薩琳－經典立繪 1
+T_CollectionBook_StaticImageTitle_P3001@撫子－經典立繪 1
+T_CollectionBook_StaticImageTitle_P31001@沙也加－經典立繪 1
+T_CollectionBook_StaticImageTitle_P32001@小莓－經典立繪 1
+T_CollectionBook_StaticImageTitle_P33001@水紀－經典立繪 1
+T_CollectionBook_StaticImageTitle_P34001@夏若音－經典立繪 1
+T_CollectionBook_StaticImageTitle_P35001@海莉格－經典立繪 1
+T_CollectionBook_StaticImageTitle_P36001@蒂芬妮－經典立繪 1
+T_CollectionBook_StaticImageTitle_P37001@史嘉莉－經典立繪 1
+T_CollectionBook_StaticImageTitle_P38001@Momona - Classic 1
+T_CollectionBook_StaticImageTitle_P39001@Hilda － Classic 1
+T_CollectionBook_StaticImageTitle_P40001@Natasha - Classic 1
+T_CollectionBook_StaticImageTitle_P4001@紗希－經典立繪 1
+T_CollectionBook_StaticImageTitle_P41001@Haruko - Classic 1
+T_CollectionBook_StaticImageTitle_P42001@Aurora - Classic 1
+T_CollectionBook_StaticImageTitle_P5001@燈歌－經典立繪 1
+T_CollectionBook_StaticImageTitle_P6001@莉娜－經典立繪 1
+T_CollectionBook_StaticImageTitle_P7001@加奈－經典立繪 1
+T_CollectionBook_StaticImageTitle_P8001@華乃－經典立繪 1
+T_CollectionBook_StaticImageTitle_P90001@Zumi－經典立繪 1
+T_CollectionBook_StaticImageTitle_P9001@伊月－經典立繪 1
+T_CollectionBook_StaticImageTitle_P91001@小純－經典立繪 1
+T_Helper_Content_12_1@前半段的獎勵有：<color=#FBBE30>新角色：燈歌、加奈，以及時裝</color>等
+T_Helper_Content_12_2@完成全部的目標，能夠得到<color=#FBBE30>燈歌的時裝</color>！哎呀，燈歌，不可以這樣出門呀…\n嗯，總之，有很多豐富的獎項，教練不要錯過囉！
+T_Helper_Content_40@那個…教練，在達到一定親密度之後，女孩們想請您進行更進一步的指導呢。\n想更明白對於身體的掌控……
+T_Helper_Content_70@「<color=#FBBE30>水花派對</color>」為 4 對 4 的多人<color=#FBBE30>全自動對戰</color>模式，\n需在 2 分鐘內將敵人<color=#FBBE30>全部擊敗</color>才能獲勝。
+T_Helper_Content_70_2@在水花派對中，各女孩的數值與技能傷害可能會與其他模式有所不同，請教練特別注意喔！
+T_Helper_Content_70_3@水花派對名次依照<color=#FBBE30>分數</color>進行排名，若分數相同則以分數<color=#FBBE30>最終更新時間</color>進行排名
+T_Helper_Content_70_4@對了，遊玩水花派對可以得到<color=#FBBE30>水花硬幣</color>\n可在派對商店中兌換<color=#FBBE30>裝備相關材料</color>喔！當然也有養眼的內容可以兌換啦…
+T_Helper_Content_90_3@As their Cheer Level boosts, Fangirls can activate various team-helping <color=#FBBE30>Cheer Abilities</color> and <color=#FBBE30>Cheer Skills</color>!
+T_Helper_Title_70@茜音的水花派對介紹
+T_Helper_Title_80@茜音的水槍大集合介紹
+T_Intimacy_RewardTip_10001_10@ 
+T_Intimacy_RewardTip_10001_12@ 
+T_Intimacy_RewardTip_10001_2@ 
+T_Intimacy_RewardTip_10001_3@ 
+T_Intimacy_RewardTip_10001_4@ 
+T_Intimacy_RewardTip_10001_5@ 
+T_Intimacy_RewardTip_10001_8@ 
+T_Intimacy_RewardTip_10001_9@ 
+T_Intimacy_RewardTip_1001_11@解鎖健身課程的核心階段
+T_Intimacy_RewardTip_1001_12@ 
+T_Intimacy_RewardTip_1001_2@ 
+T_Intimacy_RewardTip_1001_3@ 
+T_Intimacy_RewardTip_1001_4@ 
+T_Intimacy_RewardTip_1001_7@ 
+T_Intimacy_RewardTip_1001_8@ 
+T_Intimacy_RewardTip_1001_9@ 
+T_Intimacy_RewardTip_10040001_10@ 
+T_Intimacy_RewardTip_10040001_4@ 
+T_Intimacy_RewardTip_10040001_5@ 
+T_Intimacy_RewardTip_10040001_8@ 
+T_Intimacy_RewardTip_10040001_9@ 
+T_Intimacy_RewardTip_10041001_10@ 
+T_Intimacy_RewardTip_10041001_4@ 
+T_Intimacy_RewardTip_10041001_5@ 
+T_Intimacy_RewardTip_10041001_8@ 
+T_Intimacy_RewardTip_10041001_9@ 
+T_Intimacy_RewardTip_10042001_10@ 
+T_Intimacy_RewardTip_10042001_4@ 
+T_Intimacy_RewardTip_10042001_5@ 
+T_Intimacy_RewardTip_10042001_8@ 
+T_Intimacy_RewardTip_10042001_9@ 
+T_Intimacy_RewardTip_11001_10@ 
+T_Intimacy_RewardTip_11001_12@ 
+T_Intimacy_RewardTip_11001_2@ 
+T_Intimacy_RewardTip_11001_3@ 
+T_Intimacy_RewardTip_11001_4@ 
+T_Intimacy_RewardTip_11001_5@ 
+T_Intimacy_RewardTip_11001_8@ 
+T_Intimacy_RewardTip_11001_9@ 
+T_Intimacy_RewardTip_12001_10@ 
+T_Intimacy_RewardTip_12001_12@ 
+T_Intimacy_RewardTip_12001_2@ 
+T_Intimacy_RewardTip_12001_3@ 
+T_Intimacy_RewardTip_12001_4@ 
+T_Intimacy_RewardTip_12001_5@ 
+T_Intimacy_RewardTip_12001_8@ 
+T_Intimacy_RewardTip_12001_9@ 
+T_Intimacy_RewardTip_13001_10@ 
+T_Intimacy_RewardTip_13001_12@ 
+T_Intimacy_RewardTip_13001_2@ 
+T_Intimacy_RewardTip_13001_3@ 
+T_Intimacy_RewardTip_13001_4@ 
+T_Intimacy_RewardTip_13001_5@ 
+T_Intimacy_RewardTip_13001_8@ 
+T_Intimacy_RewardTip_13001_9@ 
+T_Intimacy_RewardTip_14001_10@ 
+T_Intimacy_RewardTip_14001_12@ 
+T_Intimacy_RewardTip_14001_2@ 
+T_Intimacy_RewardTip_14001_3@ 
+T_Intimacy_RewardTip_14001_4@ 
+T_Intimacy_RewardTip_14001_5@ 
+T_Intimacy_RewardTip_14001_8@ 
+T_Intimacy_RewardTip_14001_9@ 
+T_Intimacy_RewardTip_15001_10@ 
+T_Intimacy_RewardTip_15001_4@ 
+T_Intimacy_RewardTip_15001_5@ 
+T_Intimacy_RewardTip_15001_8@ 
+T_Intimacy_RewardTip_15001_9@ 
+T_Intimacy_RewardTip_16001_10@ 
+T_Intimacy_RewardTip_16001_4@ 
+T_Intimacy_RewardTip_16001_5@ 
+T_Intimacy_RewardTip_16001_8@ 
+T_Intimacy_RewardTip_16001_9@ 
+T_Intimacy_RewardTip_17001_10@ 
+T_Intimacy_RewardTip_17001_4@ 
+T_Intimacy_RewardTip_17001_5@ 
+T_Intimacy_RewardTip_17001_8@ 
+T_Intimacy_RewardTip_17001_9@ 
+T_Intimacy_RewardTip_18001_10@ 
+T_Intimacy_RewardTip_18001_4@ 
+T_Intimacy_RewardTip_18001_5@ 
+T_Intimacy_RewardTip_18001_8@ 
+T_Intimacy_RewardTip_18001_9@ 
+T_Intimacy_RewardTip_19001_10@ 
+T_Intimacy_RewardTip_19001_4@ 
+T_Intimacy_RewardTip_19001_5@ 
+T_Intimacy_RewardTip_19001_8@ 
+T_Intimacy_RewardTip_19001_9@ 
+T_Intimacy_RewardTip_20001_10@ 
+T_Intimacy_RewardTip_20001_4@ 
+T_Intimacy_RewardTip_20001_5@ 
+T_Intimacy_RewardTip_20001_8@ 
+T_Intimacy_RewardTip_20001_9@ 
+T_Intimacy_RewardTip_2001_10@ 
+T_Intimacy_RewardTip_2001_12@ 
+T_Intimacy_RewardTip_2001_2@ 
+T_Intimacy_RewardTip_2001_3@ 
+T_Intimacy_RewardTip_2001_4@ 
+T_Intimacy_RewardTip_2001_5@ 
+T_Intimacy_RewardTip_2001_8@ 
+T_Intimacy_RewardTip_2001_9@ 
+T_Intimacy_RewardTip_21001_10@ 
+T_Intimacy_RewardTip_21001_4@ 
+T_Intimacy_RewardTip_21001_5@ 
+T_Intimacy_RewardTip_21001_8@ 
+T_Intimacy_RewardTip_21001_9@ 
+T_Intimacy_RewardTip_22001_10@ 
+T_Intimacy_RewardTip_22001_4@ 
+T_Intimacy_RewardTip_22001_5@ 
+T_Intimacy_RewardTip_22001_8@ 
+T_Intimacy_RewardTip_22001_9@ 
+T_Intimacy_RewardTip_23001_10@ 
+T_Intimacy_RewardTip_23001_4@ 
+T_Intimacy_RewardTip_23001_5@ 
+T_Intimacy_RewardTip_23001_8@ 
+T_Intimacy_RewardTip_23001_9@ 
+T_Intimacy_RewardTip_24001_10@ 
+T_Intimacy_RewardTip_24001_4@ 
+T_Intimacy_RewardTip_24001_5@ 
+T_Intimacy_RewardTip_24001_8@ 
+T_Intimacy_RewardTip_24001_9@ 
+T_Intimacy_RewardTip_25001_10@ 
+T_Intimacy_RewardTip_25001_4@ 
+T_Intimacy_RewardTip_25001_5@ 
+T_Intimacy_RewardTip_25001_8@ 
+T_Intimacy_RewardTip_25001_9@ 
+T_Intimacy_RewardTip_26001_10@ 
+T_Intimacy_RewardTip_26001_4@ 
+T_Intimacy_RewardTip_26001_5@ 
+T_Intimacy_RewardTip_26001_8@ 
+T_Intimacy_RewardTip_26001_9@ 
+T_Intimacy_RewardTip_27001_10@ 
+T_Intimacy_RewardTip_27001_4@ 
+T_Intimacy_RewardTip_27001_5@ 
+T_Intimacy_RewardTip_27001_8@ 
+T_Intimacy_RewardTip_27001_9@ 
+T_Intimacy_RewardTip_28001_10@ 
+T_Intimacy_RewardTip_28001_4@ 
+T_Intimacy_RewardTip_28001_5@ 
+T_Intimacy_RewardTip_28001_8@ 
+T_Intimacy_RewardTip_28001_9@ 
+T_Intimacy_RewardTip_29001_10@ 
+T_Intimacy_RewardTip_29001_4@ 
+T_Intimacy_RewardTip_29001_5@ 
+T_Intimacy_RewardTip_29001_8@ 
+T_Intimacy_RewardTip_29001_9@ 
+T_Intimacy_RewardTip_30001_10@ 
+T_Intimacy_RewardTip_30001_4@ 
+T_Intimacy_RewardTip_30001_5@ 
+T_Intimacy_RewardTip_30001_8@ 
+T_Intimacy_RewardTip_30001_9@ 
+T_Intimacy_RewardTip_3001_10@ 
+T_Intimacy_RewardTip_3001_12@ 
+T_Intimacy_RewardTip_3001_2@ 
+T_Intimacy_RewardTip_3001_3@ 
+T_Intimacy_RewardTip_3001_4@ 
+T_Intimacy_RewardTip_3001_5@ 
+T_Intimacy_RewardTip_3001_8@ 
+T_Intimacy_RewardTip_3001_9@ 
+T_Intimacy_RewardTip_31001_10@ 
+T_Intimacy_RewardTip_31001_4@ 
+T_Intimacy_RewardTip_31001_5@ 
+T_Intimacy_RewardTip_31001_8@ 
+T_Intimacy_RewardTip_31001_9@ 
+T_Intimacy_RewardTip_32001_10@ 
+T_Intimacy_RewardTip_32001_4@ 
+T_Intimacy_RewardTip_32001_5@ 
+T_Intimacy_RewardTip_32001_8@ 
+T_Intimacy_RewardTip_32001_9@ 
+T_Intimacy_RewardTip_33001_10@ 
+T_Intimacy_RewardTip_33001_4@ 
+T_Intimacy_RewardTip_33001_5@ 
+T_Intimacy_RewardTip_33001_8@ 
+T_Intimacy_RewardTip_33001_9@ 
+T_Intimacy_RewardTip_34001_10@ 
+T_Intimacy_RewardTip_34001_4@ 
+T_Intimacy_RewardTip_34001_5@ 
+T_Intimacy_RewardTip_34001_8@ 
+T_Intimacy_RewardTip_34001_9@ 
+T_Intimacy_RewardTip_35001_10@ 
+T_Intimacy_RewardTip_35001_4@ 
+T_Intimacy_RewardTip_35001_5@ 
+T_Intimacy_RewardTip_35001_8@ 
+T_Intimacy_RewardTip_35001_9@ 
+T_Intimacy_RewardTip_36001_10@ 
+T_Intimacy_RewardTip_36001_4@ 
+T_Intimacy_RewardTip_36001_5@ 
+T_Intimacy_RewardTip_36001_8@ 
+T_Intimacy_RewardTip_36001_9@ 
+T_Intimacy_RewardTip_37001_10@ 
+T_Intimacy_RewardTip_37001_4@ 
+T_Intimacy_RewardTip_37001_5@ 
+T_Intimacy_RewardTip_37001_8@ 
+T_Intimacy_RewardTip_37001_9@ 
+T_Intimacy_RewardTip_38001_10@ 
+T_Intimacy_RewardTip_38001_4@ 
+T_Intimacy_RewardTip_38001_5@ 
+T_Intimacy_RewardTip_38001_8@ 
+T_Intimacy_RewardTip_38001_9@ 
+T_Intimacy_RewardTip_39001_10@ 
+T_Intimacy_RewardTip_39001_4@ 
+T_Intimacy_RewardTip_39001_5@ 
+T_Intimacy_RewardTip_39001_8@ 
+T_Intimacy_RewardTip_39001_9@ 
+T_Intimacy_RewardTip_4001_10@ 
+T_Intimacy_RewardTip_4001_12@ 
+T_Intimacy_RewardTip_4001_2@ 
+T_Intimacy_RewardTip_4001_3@ 
+T_Intimacy_RewardTip_4001_4@ 
+T_Intimacy_RewardTip_4001_5@ 
+T_Intimacy_RewardTip_4001_8@ 
+T_Intimacy_RewardTip_4001_9@ 
+T_Intimacy_RewardTip_5001_10@ 
+T_Intimacy_RewardTip_5001_12@ 
+T_Intimacy_RewardTip_5001_2@ 
+T_Intimacy_RewardTip_5001_3@ 
+T_Intimacy_RewardTip_5001_4@ 
+T_Intimacy_RewardTip_5001_5@ 
+T_Intimacy_RewardTip_5001_8@ 
+T_Intimacy_RewardTip_5001_9@ 
+T_Intimacy_RewardTip_6001_10@ 
+T_Intimacy_RewardTip_6001_12@ 
+T_Intimacy_RewardTip_6001_2@ 
+T_Intimacy_RewardTip_6001_3@ 
+T_Intimacy_RewardTip_6001_4@ 
+T_Intimacy_RewardTip_6001_5@ 
+T_Intimacy_RewardTip_6001_8@ 
+T_Intimacy_RewardTip_6001_9@ 
+T_Intimacy_RewardTip_7001_10@ 
+T_Intimacy_RewardTip_7001_12@ 
+T_Intimacy_RewardTip_7001_2@ 
+T_Intimacy_RewardTip_7001_3@ 
+T_Intimacy_RewardTip_7001_4@ 
+T_Intimacy_RewardTip_7001_5@ 
+T_Intimacy_RewardTip_7001_8@ 
+T_Intimacy_RewardTip_7001_9@ 
+T_Intimacy_RewardTip_8001_10@ 
+T_Intimacy_RewardTip_8001_12@ 
+T_Intimacy_RewardTip_8001_2@ 
+T_Intimacy_RewardTip_8001_3@ 
+T_Intimacy_RewardTip_8001_4@ 
+T_Intimacy_RewardTip_8001_5@ 
+T_Intimacy_RewardTip_8001_8@ 
+T_Intimacy_RewardTip_8001_9@ 
+T_Intimacy_RewardTip_90001_10@ 
+T_Intimacy_RewardTip_90001_4@ 
+T_Intimacy_RewardTip_90001_5@ 
+T_Intimacy_RewardTip_90001_8@ 
+T_Intimacy_RewardTip_90001_9@ 
+T_Intimacy_RewardTip_9001_10@ 
+T_Intimacy_RewardTip_9001_12@ 
+T_Intimacy_RewardTip_9001_2@ 
+T_Intimacy_RewardTip_9001_3@ 
+T_Intimacy_RewardTip_9001_4@ 
+T_Intimacy_RewardTip_9001_5@ 
+T_Intimacy_RewardTip_9001_8@ 
+T_Intimacy_RewardTip_9001_9@ 
+T_Intimacy_RewardTip_91001_10@ 
+T_Intimacy_RewardTip_91001_4@ 
+T_Intimacy_RewardTip_91001_5@ 
+T_Intimacy_RewardTip_91001_8@ 
+T_Intimacy_RewardTip_91001_9@ 
+T_ITEM_Info_1000101@Alice's skin
+T_ITEM_Info_1000102@Alice's skin
+T_ITEM_Info_1000104@Alice's skin
+T_ITEM_Info_1000113@Alice's skin
+T_ITEM_Info_10011@Akane's skin
+T_ITEM_Info_10012@Akane's skin
+T_ITEM_Info_10016@Akane's skin
+T_ITEM_Info_10018@Akane's skin
+T_ITEM_Info_1100101@Misako's skin
+T_ITEM_Info_1100102@Misako's skin
+T_ITEM_Info_1100104@Misako's skin
+T_ITEM_Info_1100113@Misako's skin
+T_ITEM_Info_1200101@Riria's Skin
+T_ITEM_Info_1200103@Riria's Skin
+T_ITEM_Info_1200118@Riria's Skin
+T_ITEM_Info_1300101@Yandere Chan's Skin
+T_ITEM_Info_1300103@Yandere Chan's Skin
+T_ITEM_Info_1300114@Yandere Chan's Skin
+T_ITEM_Info_1400101@Nemesis' Skin
+T_ITEM_Info_1400102@Nemesis' Skin
+T_ITEM_Info_1400114@Nemesis' Skin
+T_ITEM_Info_1500101@Monica's Skin
+T_ITEM_Info_1500114@Monica's Skin
+T_ITEM_Info_1600101@Miyu's Skin
+T_ITEM_Info_1600115@Miyu's Skin
+T_ITEM_Info_1700101@Fuuko's Skin.
+T_ITEM_Info_1700114@Fuuko's Skin.
+T_ITEM_Info_18@透過水花派對模式獲得的貨幣，能從派對商店兌換珍稀物品
+T_ITEM_Info_1800101@Rise's Skin
+T_ITEM_Info_1800114@Rise's Skin
+T_ITEM_Info_1900101@Miyuki's Skin
+T_ITEM_Info_1900114@Miyuki's Skin
+T_ITEM_Info_2000101@Grace's Skin
+T_ITEM_Info_2000115@Grace's Skin
+T_ITEM_Info_20011@Yui's skin
+T_ITEM_Info_20012@Yui's skin
+T_ITEM_Info_20016@Yui's skin
+T_ITEM_Info_20026@Yui's skin
+T_ITEM_Info_2100101@Diana's skin
+T_ITEM_Info_2100114@Diana's skin
+T_ITEM_Info_2200101@Luna's Skin
+T_ITEM_Info_2200102@Luna's Skin
+T_ITEM_Info_2300101@Kagura's Skin
+T_ITEM_Info_2300102@Kagura's Skin
+T_ITEM_Info_2400101@Kikyou's Skin
+T_ITEM_Info_2400102@Kikyou's Skin
+T_ITEM_Info_2500101@Sora's Skin
+T_ITEM_Info_2500102@Sora's Skin
+T_ITEM_Info_2600101@Angel's Skin
+T_ITEM_Info_2600102@Angel's Skin
+T_ITEM_Info_2700101@Saku's Skin
+T_ITEM_Info_2700102@Saku's Skin
+T_ITEM_Info_2800101@Oboro's Skin
+T_ITEM_Info_2800102@Oboro's Skin
+T_ITEM_Info_2900101@Tsugumi's Skin
+T_ITEM_Info_2900102@Tsugumi's Skin
+T_ITEM_Info_30@透過水槍大集合模式獲得的貨幣，能從大集合商店兌換珍稀物品
+T_ITEM_Info_3000101@Catherine's Skin
+T_ITEM_Info_3000102@Catherine's Skin
+T_ITEM_Info_30011@Nadeshiko's skin
+T_ITEM_Info_30012@Nadeshiko's skin
+T_ITEM_Info_30016@Nadeshiko's skin
+T_ITEM_Info_30017@Nadeshiko's skin
+T_ITEM_Info_310001@臀推健身課程\n進行課程可機率獲得獨特的「噴射潛能」！
+T_ITEM_Info_3100101@Sayaka's Skin
+T_ITEM_Info_3100102@Sayaka's Skin
+T_ITEM_Info_310101@韻律健身課程\n進行課程可機率獲得獨特的「補給潛能」！
+T_ITEM_Info_310201@瑜珈球健身課程\n進行課程可機率獲得獨特的「激戰潛能」！
+T_ITEM_Info_310301@性感健身課程\n進行課程可機率獲得獨特的「滋養潛能」！
+T_ITEM_Info_310401@魅力健身課程\n進行課程可機率獲得獨特的「絕頂潛能」！
+T_ITEM_Info_310501@引體向上健身課程\n進行課程可機率獲得獨特的「爆射潛能」！
+T_ITEM_Info_3200101@Berry's Skin
+T_ITEM_Info_3200102@Berry's Skin
+T_ITEM_Info_320101@結婚互動\n進行互動可機率獲得對應女孩的摯愛潛能！
+T_ITEM_Info_330001@Can be unlocked in the Album after purchasing!
+T_ITEM_Info_330002@Can be unlocked in the Album after purchasing!
+T_ITEM_Info_330003@Can be unlocked in the Album after purchasing!
+T_ITEM_Info_330004@Can be unlocked in the Album after purchasing!
+T_ITEM_Info_330005@Can be unlocked in the Album after purchasing!
+T_ITEM_Info_330006@Can be unlocked in the Album after purchasing!
+T_ITEM_Info_3300101@Mizuki's Skin
+T_ITEM_Info_3300102@Mizuki's Skin
+T_ITEM_Info_3400101@Kamoto's Skin
+T_ITEM_Info_3400102@Kamoto's Skin
+T_ITEM_Info_350004@女孩健身所需的道具，有助於肌肉的生長與維持！
+T_ITEM_Info_3500101@Haley's Skin
+T_ITEM_Info_3500102@Haley's Skin
+T_ITEM_Info_350101@熟悉的泳池場景\n擁有它就能更換宿舍的樣貌\n※重複獲得時，將會轉換為少女心願*800，能從商店兌換珍稀物品
+T_ITEM_Info_3600101@Tiffany's Skin
+T_ITEM_Info_3600102@Tiffany's Skin
+T_ITEM_Info_3700101@Scarlett's Skin
+T_ITEM_Info_3700102@Scarlett's Skin
+T_ITEM_Info_3800101@Momona's Skin
+T_ITEM_Info_3800102@Momona's Skin
+T_ITEM_Info_3900101@Hilda's Skin
+T_ITEM_Info_3900102@Hilda's Skin
+T_ITEM_Info_40011@Saki's skin
+T_ITEM_Info_40012@Saki's skin
+T_ITEM_Info_40016@Saki's skin
+T_ITEM_Info_40025@Saki's skin
+T_ITEM_Info_41001@開啟獲得隨機女孩的韻律健身課程
+T_ITEM_Info_41002@開啟獲得隨機女孩的臀推健身課程
+T_ITEM_Info_41003@開啟獲得隨機女孩的瑜珈球健身
+T_ITEM_Info_41004@開啟獲得隨機女孩的性感健身課程
+T_ITEM_Info_41005@開啟獲得自選健身課程
+T_ITEM_Info_41017@開啟獲得隨機女孩的魅力健身課程
+T_ITEM_Info_41018@開啟獲得隨機女孩的引體向上健身課程
+T_ITEM_Info_41023@開啟獲得隨機女孩的健身課程
+T_ITEM_Info_50011@Tomoka's skin
+T_ITEM_Info_50012@Tomoka's skin
+T_ITEM_Info_50019@Tomoka's skin
+T_ITEM_Info_50022@Tomoka's skin
+T_ITEM_Info_60011@Rina's skin
+T_ITEM_Info_60012@Rina's skin
+T_ITEM_Info_60018@Rina's skin
+T_ITEM_Info_60021@Rina's skin
+T_ITEM_Info_70@水花派對的入場券，每次參與時需消耗一張
+T_ITEM_Info_70011@Kana's skin
+T_ITEM_Info_70012@Kana's skin
+T_ITEM_Info_70016@Kana's skin
+T_ITEM_Info_70021@Kana's skin
+T_ITEM_Info_77@活動貨幣，透過水槍競賽、協力守衛戰與水槍大集合限定每日任務獲得，能從限定商店兌換珍稀物品
+T_ITEM_Info_80011@Kagano's skin
+T_ITEM_Info_80012@Kagano's skin
+T_ITEM_Info_80016@Kagano's skin
+T_ITEM_Info_80022@Kagano's skin
+T_ITEM_Info_848@開啟獲得特級水槍、高級水槍、普通水槍、營養棒
+T_ITEM_Info_859@開啟獲得健身潛能，可用來強化所有女孩
+T_ITEM_Info_9000101@Zumi's skin
+T_ITEM_Info_9000102@Zumi's skin
+T_ITEM_Info_90011@Itsuki's Skin
+T_ITEM_Info_90012@Itsuki's Skin
+T_ITEM_Info_90016@Itsuki's Skin
+T_ITEM_Info_90025@Itsuki's Skin
+T_ITEM_Info_910@開啟獲得隨機少量道具：\n‧女孩專屬禮物、高級巧克力、普通巧克力\n‧營養棒、高級水槍、普通水槍\n‧共通潛能碎片
+T_ITEM_Info_91001001@Yiliy's Skin
+T_ITEM_Info_91001002@Yiliy's Skin
+T_ITEM_Info_911@開啟獲得隨機中量道具：\n‧女孩專屬禮物、高級巧克力、普通巧克力\n‧營養棒、特級水槍、高級水槍、普通水槍\n‧共通潛能碎片
+T_ITEM_Info_912@開啟獲得隨機大量道具：\n‧女孩專屬禮物、特級巧克力、高級巧克力、普通巧克力\n‧營養棒、特級水槍、高級水槍、普通水槍\n‧共通潛能碎片、專屬潛能碎片\n‧寶石
+T_ITEM_Info_942@開啟獲得一堂自選健身課程
+T_ITEM_Info_C4000101@Natasha's Skin
+T_ITEM_Info_C4000102@Natasha's Skin
+T_ITEM_Info_C4100101@Haruko’s Skin
+T_ITEM_Info_C4100102@Haruko’s Skin
+T_ITEM_Info_C4200101@Aurora’s Skin
+T_ITEM_Info_C4200102@Aurora’s Skin
+T_ITEM_Info_SpeG0011@開啟獲得隨機健身課程
+T_ITEM_Info_SpeG0012@Open to obtain Rhythm Workout Training for a girl of your choice.
+T_ITEM_Info_SpeG0013@Open to obtain Hip Thrust Workout Training for a girl of your choice.
+T_ITEM_Info_SpeG0014@Open to obtain Yoga Ball Workout Training for a girl of your choice.
+T_ITEM_Info_SpeG0015@Open to obtain Sexiness Workout Training for a girl of your choice.
+T_ITEM_Info_SpeG0016@Open to obtain Charming Workout Training for a girl of your choice.
+T_ITEM_Info_SpeG0017@Open to obtain Pull-Up Workout Training for a girl of your choice.
+T_ITEM_NAME_100013@健身－噴射潛能
+T_ITEM_NAME_100014@健身－補給潛能
+T_ITEM_NAME_100015@健身－激戰潛能
+T_ITEM_NAME_100016@健身－滋養潛能
+T_ITEM_NAME_100017@健身－絕頂潛能
+T_ITEM_NAME_100018@健身－爆射潛能
+T_ITEM_NAME_106@每日營養棒禮包(活動)
+T_ITEM_NAME_18@水花硬幣－紅
+T_ITEM_NAME_23@水花硬幣－藍
+T_ITEM_NAME_310001@茜音－臀推健身
+T_ITEM_NAME_310002@操子－臀推健身
+T_ITEM_NAME_310003@莉娜－臀推健身
+T_ITEM_NAME_310004@加奈－臀推健身
+T_ITEM_NAME_310005@唯－臀推健身
+T_ITEM_NAME_310006@紗希－臀推健身
+T_ITEM_NAME_310007@艾莉絲－臀推健身
+T_ITEM_NAME_310008@燈歌－臀推健身
+T_ITEM_NAME_310009@伊月－臀推健身
+T_ITEM_NAME_310010@華乃－臀推健身
+T_ITEM_NAME_310011@撫子－臀推健身
+T_ITEM_NAME_310012@病嬌醬－臀推健身
+T_ITEM_NAME_310013@美遊－臀推健身
+T_ITEM_NAME_310014@復仇醬－臀推健身
+T_ITEM_NAME_310015@美雪－臀推健身
+T_ITEM_NAME_310016@黛安娜－臀推健身
+T_ITEM_NAME_310017@Zumi－臀推健身
+T_ITEM_NAME_310018@葛蕾絲－臀推健身
+T_ITEM_NAME_310019@神樂－臀推健身
+T_ITEM_NAME_310020@桔梗－臀推健身
+T_ITEM_NAME_310021@咲－臀推健身
+T_ITEM_NAME_310022@亞海－臀推健身
+T_ITEM_NAME_310023@水紀－臀推健身
+T_ITEM_NAME_310024@海莉格－臀推健身
+T_ITEM_NAME_310025@蒂芬妮－臀推健身
+T_ITEM_NAME_310026@Hilda－Hip Thrust Workout
+T_ITEM_NAME_310027@Scarlett - Hip Thrust Workout
+T_ITEM_NAME_310101@艾莉絲－韻律健身
+T_ITEM_NAME_310102@華乃－韻律健身
+T_ITEM_NAME_310103@燈歌－韻律健身
+T_ITEM_NAME_310104@唯－韻律健身
+T_ITEM_NAME_310105@茜音－韻律健身
+T_ITEM_NAME_310106@伊月－韻律健身
+T_ITEM_NAME_310107@莉娜－韻律健身
+T_ITEM_NAME_310108@操子－韻律健身
+T_ITEM_NAME_310109@加奈－韻律健身
+T_ITEM_NAME_310110@撫子－韻律健身
+T_ITEM_NAME_310111@莉莉婭－韻律健身
+T_ITEM_NAME_310112@紗希－韻律健身
+T_ITEM_NAME_310113@莫妮卡－韻律健身
+T_ITEM_NAME_310114@理世－韻律健身
+T_ITEM_NAME_310115@美遊－韻律健身
+T_ITEM_NAME_310116@楓子－韻律健身
+T_ITEM_NAME_310117@美雪－韻律健身
+T_ITEM_NAME_310118@小純－韻律健身
+T_ITEM_NAME_310119@露娜－韻律健身
+T_ITEM_NAME_310120@Zumi－韻律健身
+T_ITEM_NAME_310121@朧－韻律健身
+T_ITEM_NAME_310122@凱薩琳－韻律健身
+T_ITEM_NAME_310123@夏若音－韻律健身
+T_ITEM_NAME_310124@小莓－韻律健身
+T_ITEM_NAME_310125@Momona - Rhythmic Gym
+T_ITEM_NAME_310126@Haley－Rhythm Workout
+T_ITEM_NAME_310127@Haruko - Rhythm Workout
+T_ITEM_NAME_310201@操子－瑜珈球健身
+T_ITEM_NAME_310202@撫子－瑜珈球健身
+T_ITEM_NAME_310203@加奈－瑜珈球健身
+T_ITEM_NAME_310204@伊月－瑜珈球健身
+T_ITEM_NAME_310205@燈歌－瑜珈球健身
+T_ITEM_NAME_310206@艾莉絲－瑜珈球健身
+T_ITEM_NAME_310207@華乃－瑜珈球健身
+T_ITEM_NAME_310208@唯－瑜珈球健身
+T_ITEM_NAME_310209@紗希－瑜珈球健身
+T_ITEM_NAME_310210@茜音－瑜珈球健身
+T_ITEM_NAME_310211@莉娜－瑜珈球健身
+T_ITEM_NAME_310212@莫妮卡－瑜珈球健身
+T_ITEM_NAME_310213@莉莉婭－瑜珈球健身
+T_ITEM_NAME_310214@理世－瑜珈球健身
+T_ITEM_NAME_310215@葛蕾絲－瑜珈球健身
+T_ITEM_NAME_310216@露娜－瑜珈球健身
+T_ITEM_NAME_310217@安潔兒－瑜珈球健身
+T_ITEM_NAME_310218@神乐－瑜珈球健身
+T_ITEM_NAME_310219@亞海－瑜珈球健身
+T_ITEM_NAME_310220@沙也加－瑜珈球健身
+T_ITEM_NAME_310221@朧－瑜珈球健身
+T_ITEM_NAME_310222@凱薩琳－瑜珈球健身
+T_ITEM_NAME_310223@海莉格－瑜珈球健身
+T_ITEM_NAME_310224@史嘉莉－瑜珈球健身
+T_ITEM_NAME_310225@Kamoto - Yoga Ball Gym
+T_ITEM_NAME_310226@Hilda－Yoga Ball Workout
+T_ITEM_NAME_310227@Haruko - Yoga Ball Workout
+T_ITEM_NAME_310228@Momona - Yoga Ball Workout
+T_ITEM_NAME_310301@艾莉絲－性感健身課程
+T_ITEM_NAME_310302@加奈－性感健身課程
+T_ITEM_NAME_310303@操子－性感健身課程
+T_ITEM_NAME_310304@撫子－性感健身課程
+T_ITEM_NAME_310305@伊月－性感健身課程
+T_ITEM_NAME_310306@莉娜－性感健身課程
+T_ITEM_NAME_310307@唯－性感健身課程
+T_ITEM_NAME_310308@茜音－性感健身課程
+T_ITEM_NAME_310309@紗希－性感健身課程
+T_ITEM_NAME_310310@復仇醬－性感健身課程
+T_ITEM_NAME_310311@病嬌醬－性感健身課程
+T_ITEM_NAME_310312@華乃－性感健身課程
+T_ITEM_NAME_310313@楓子－性感健身課程
+T_ITEM_NAME_310314@葛蕾絲－性感健身課程
+T_ITEM_NAME_310315@露娜－性感健身課程
+T_ITEM_NAME_310316@黛安娜－性感健身課程
+T_ITEM_NAME_310317@空－性感健身課程
+T_ITEM_NAME_310318@小純－性感健身課程
+T_ITEM_NAME_310319@朧－性感健身課程
+T_ITEM_NAME_310320@凱薩琳－性感健身課程
+T_ITEM_NAME_310321@小莓－性感健身課程
+T_ITEM_NAME_310322@水紀－性感健身課程
+T_ITEM_NAME_310323@Natasha - Sexy Workout Training
+T_ITEM_NAME_310324@Aurora - Sexy Workout Training
+T_ITEM_NAME_310401@莉莉婭－魅力健身課程
+T_ITEM_NAME_310402@燈歌－魅力健身課程
+T_ITEM_NAME_310403@伊月－魅力健身課程
+T_ITEM_NAME_310404@加奈－魅力健身課程
+T_ITEM_NAME_310405@操子－魅力健身課程
+T_ITEM_NAME_310406@茜音－魅力健身課程
+T_ITEM_NAME_310407@美遊－魅力健身課程
+T_ITEM_NAME_310408@病嬌醬－魅力健身課程
+T_ITEM_NAME_310409@美雪－魅力健身課程
+T_ITEM_NAME_310410@黛安娜－魅力健身課程
+T_ITEM_NAME_310411@Zumi－魅力健身課程
+T_ITEM_NAME_310412@神樂－魅力健身課程
+T_ITEM_NAME_310413@空－魅力健身課程
+T_ITEM_NAME_310414@咲－魅力健身课程
+T_ITEM_NAME_310415@桔梗－魅力健身課程
+T_ITEM_NAME_310416@安潔兒－魅力健身課程
+T_ITEM_NAME_310417@沙也加－魅力健身課程
+T_ITEM_NAME_310418@水紀－魅力健身課程
+T_ITEM_NAME_310419@亞海－魅力健身課程
+T_ITEM_NAME_310420@蒂芬妮－魅力健身課程
+T_ITEM_NAME_310421@Natasha - Charming Workout Training
+T_ITEM_NAME_310422@Aurora - Charming Workout Training
+T_ITEM_NAME_310501@莉莉婭－引體向上健身
+T_ITEM_NAME_310502@華乃－引體向上健身
+T_ITEM_NAME_310503@加奈－引體向上健身
+T_ITEM_NAME_310504@病嬌醬－引體向上健身
+T_ITEM_NAME_310505@復仇醬－引體向上健身
+T_ITEM_NAME_310506@撫子－引體向上健身
+T_ITEM_NAME_310507@操子－引體向上健身
+T_ITEM_NAME_310508@艾莉絲－引體向上健身
+T_ITEM_NAME_310509@茜音－引體向上健身
+T_ITEM_NAME_310510@楓子－引體向上健身
+T_ITEM_NAME_310511@莉娜－引體向上健身
+T_ITEM_NAME_310512@莫妮卡－引體向上健身
+T_ITEM_NAME_310513@理世－引體向上健身
+T_ITEM_NAME_310514@小純－引體向上健身
+T_ITEM_NAME_310515@桔梗－引體向上健身
+T_ITEM_NAME_310516@安潔兒－引體向上健身
+T_ITEM_NAME_310517@空－引體向上健身
+T_ITEM_NAME_310518@咲－引體向上健身
+T_ITEM_NAME_310519@小莓－引體向上健身
+T_ITEM_NAME_310520@夏若音－引體向上健身
+T_ITEM_NAME_310521@沙也加－引體向上健身
+T_ITEM_NAME_310522@史嘉莉－引體向上健身
+T_ITEM_NAME_310523@Momona - Pull-Up Gym
+T_ITEM_NAME_310524@Tiffany - Pull-Up Workout
+T_ITEM_NAME_320101@茜音－結婚互動
+T_ITEM_NAME_320102@燈歌－結婚互動
+T_ITEM_NAME_320103@加奈－結婚互動
+T_ITEM_NAME_320104@華乃－結婚互動
+T_ITEM_NAME_320105@撫子－結婚互動
+T_ITEM_NAME_320106@紗希－結婚互動
+T_ITEM_NAME_320107@莉娜－結婚互動
+T_ITEM_NAME_320108@唯－結婚互動
+T_ITEM_NAME_320109@操子－結婚互動
+T_ITEM_NAME_320110@伊月－結婚互動
+T_ITEM_NAME_320111@艾莉絲－結婚互動
+T_ITEM_NAME_320112@莉莉婭－結婚互動
+T_ITEM_NAME_320113@病嬌醬－結婚互動
+T_ITEM_NAME_320114@復仇醬－結婚互動
+T_ITEM_NAME_320115@莫妮卡－結婚互動
+T_ITEM_NAME_320116@美遊－結婚互動
+T_ITEM_NAME_320117@楓子－結婚互動
+T_ITEM_NAME_320118@理世－結婚互動
+T_ITEM_NAME_320119@美雪－結婚互動
+T_ITEM_NAME_320120@葛蕾絲－結婚互動
+T_ITEM_NAME_320121@黛安娜－結婚互動
+T_ITEM_NAME_320122@露娜－結婚互動
+T_ITEM_NAME_320123@Kagura－Wedding Interaction
+T_ITEM_NAME_320124@桔梗－結婚互動
+T_ITEM_NAME_320125@Sora－Wedding Interaction
+T_ITEM_NAME_320126@Angel－Wedding Interaction
+T_ITEM_NAME_320127@Saku－Wedding Interaction
+T_ITEM_NAME_320128@朧－結婚互動
+T_ITEM_NAME_320129@亞海－結婚互動
+T_ITEM_NAME_320130@凱薩琳－結婚互動
+T_ITEM_NAME_320131@沙也加－結婚互動
+T_ITEM_NAME_320132@小莓－結婚互動
+T_ITEM_NAME_320133@水紀－結婚互動
+T_ITEM_NAME_320134@夏若音－結婚互動
+T_ITEM_NAME_320135@海莉格－結婚互動
+T_ITEM_NAME_320136@蒂芬妮－結婚互動
+T_ITEM_NAME_320137@史嘉莉－結婚互動
+T_ITEM_NAME_320138@Momona - Wedding Interaction
+T_ITEM_NAME_320139@Hilda－Wedding Interaction
+T_ITEM_NAME_320140@Natasha - Wedding Interaction
+T_ITEM_NAME_320141@Haruko - Wedding Interaction
+T_ITEM_NAME_320142@Aurora - Wedding Interaction
+T_ITEM_NAME_320190@Zumi－結婚互動
+T_ITEM_NAME_320191@Yiliy－Wedding Interaction
+T_ITEM_NAME_330001@茜音－圖片 1
+T_ITEM_NAME_330002@燈歌－圖片 1
+T_ITEM_NAME_330003@加奈－圖片 1
+T_ITEM_NAME_330004@華乃－圖片 1
+T_ITEM_NAME_330005@唯－圖片 1
+T_ITEM_NAME_330006@莉娜－圖片 1
+T_ITEM_NAME_350004@營養棒
+T_ITEM_NAME_41001@韻律健身課程隨機禮包
+T_ITEM_NAME_41002@臀推健身課程隨機禮包
+T_ITEM_NAME_41003@瑜珈球健身課程隨機禮包
+T_ITEM_NAME_41004@性感健身課程隨機禮包
+T_ITEM_NAME_41005@加奈－健身課程自選禮包
+T_ITEM_NAME_41006@撫子－健身課程自選禮包
+T_ITEM_NAME_41007@茜音－健身課程自選禮包
+T_ITEM_NAME_41008@唯－健身課程自選禮包
+T_ITEM_NAME_41009@紗希－健身課程自選禮包
+T_ITEM_NAME_41010@燈歌－健身課程自選禮包
+T_ITEM_NAME_41011@莉娜－健身課程自選禮包
+T_ITEM_NAME_41012@華乃－健身課程自選禮包
+T_ITEM_NAME_41013@伊月－健身課程自選禮包
+T_ITEM_NAME_41014@艾莉絲－健身課程自選禮包
+T_ITEM_NAME_41015@操子－健身課程自選禮包
+T_ITEM_NAME_41016@莉莉婭－健身課程自選禮包
+T_ITEM_NAME_41017@魅力健身課程隨機禮包
+T_ITEM_NAME_41018@引體向上健身課程隨機禮包
+T_ITEM_NAME_41019@病嬌醬－健身課程自選禮包
+T_ITEM_NAME_41020@復仇醬－健身課程自選禮包
+T_ITEM_NAME_41021@莫妮卡－健身課程自選禮包
+T_ITEM_NAME_41022@美遊－健身課程自選禮包
+T_ITEM_NAME_41023@健身課程隨機禮包
+T_ITEM_NAME_41024@楓子－健身課程自選禮包
+T_ITEM_NAME_41025@理世－健身課程自選禮包
+T_ITEM_NAME_41026@美雪－健身課程自選禮包
+T_ITEM_NAME_41027@葛蕾絲－健身課程自選禮包
+T_ITEM_NAME_41028@黛安娜－健身課程自選禮包
+T_ITEM_NAME_41029@露娜－健身課程自選禮包
+T_ITEM_NAME_41030@Zumi－健身課程自選禮包
+T_ITEM_NAME_41031@小純－健身課程自選禮包
+T_ITEM_NAME_41032@神樂－健身課程自選禮包
+T_ITEM_NAME_41033@桔梗－健身課程自選禮包
+T_ITEM_NAME_41034@空－健身課程自選禮包
+T_ITEM_NAME_41035@安潔兒－健身課程自選禮包
+T_ITEM_NAME_41036@咲－健身课程自选礼包
+T_ITEM_NAME_41037@朧－健身課程自選禮包
+T_ITEM_NAME_41038@亞海－健身課程自選禮包
+T_ITEM_NAME_41039@凱薩琳－健身課程自選禮包
+T_ITEM_NAME_41040@沙也加－健身課程自選禮包
+T_ITEM_NAME_41041@小莓－健身課程自選禮包
+T_ITEM_NAME_41042@水紀－健身課程自選禮包
+T_ITEM_NAME_41043@夏若音－健身課程自選禮包
+T_ITEM_NAME_41044@海莉格－健身課程自選禮包
+T_ITEM_NAME_41045@蒂芬妮－健身課程自選禮包
+T_ITEM_NAME_41046@史嘉莉－健身課程自選禮包
+T_ITEM_NAME_41047@Momona - Gym Training Choice Pack
+T_ITEM_NAME_41048@Hilda－Workout Training Choice Pack
+T_ITEM_NAME_41049@Natasha - Workout Training Choice Pack
+T_ITEM_NAME_41050@Haruko - Workout Training Choice Pack
+T_ITEM_NAME_41051@Aurora - Workout Training Choice Pack
+T_ITEM_NAME_43001@唯－健身課程禮盒
+T_ITEM_NAME_43002@伊月－健身課程禮盒
+T_ITEM_NAME_43003@艾莉絲－健身課程禮盒
+T_ITEM_NAME_43004@操子－健身課程禮盒
+T_ITEM_NAME_43005@撫子－健身課程禮盒
+T_ITEM_NAME_43006@紗希－健身課程禮盒
+T_ITEM_NAME_43007@莉娜－健身課程禮盒
+T_ITEM_NAME_43008@華乃－健身課程禮盒
+T_ITEM_NAME_43009@加奈－健身課程禮盒
+T_ITEM_NAME_43010@燈歌－健身課程禮盒
+T_ITEM_NAME_43011@茜音－健身課程禮盒
+T_ITEM_NAME_43012@莉莉婭－健身課程禮盒
+T_ITEM_NAME_43013@病嬌醬－健身課程禮盒
+T_ITEM_NAME_43014@復仇醬－健身課程禮盒
+T_ITEM_NAME_43015@莫妮卡－健身課程禮盒
+T_ITEM_NAME_43016@美遊－健身課程禮盒
+T_ITEM_NAME_43017@楓子－健身課程禮盒
+T_ITEM_NAME_43018@理世－健身課程禮盒
+T_ITEM_NAME_43019@美雪－健身課程禮盒
+T_ITEM_NAME_43020@葛蕾絲－健身課程禮盒
+T_ITEM_NAME_43021@黛安娜－健身課程禮盒
+T_ITEM_NAME_43022@露娜－健身課程禮盒
+T_ITEM_NAME_43023@Zumi－健身課程禮盒
+T_ITEM_NAME_43024@小純－健身課程禮盒
+T_ITEM_NAME_43025@神樂－健身課程禮盒
+T_ITEM_NAME_43026@桔梗－健身課程禮盒
+T_ITEM_NAME_43027@空－健身課程禮盒
+T_ITEM_NAME_43028@安潔兒－健身課程禮盒
+T_ITEM_NAME_43029@咲－健身课程礼盒
+T_ITEM_NAME_43030@朧－健身課程禮盒
+T_ITEM_NAME_43031@亞海－健身課程禮盒
+T_ITEM_NAME_43032@Catherine－Workout Training Pack
+T_ITEM_NAME_43033@沙也加－健身課程禮盒
+T_ITEM_NAME_43034@小莓－健身課程禮盒
+T_ITEM_NAME_43035@水紀－健身課程禮盒
+T_ITEM_NAME_43036@夏若音－健身課程禮盒
+T_ITEM_NAME_43037@海莉格－健身課程禮盒
+T_ITEM_NAME_43038@蒂芬妮－健身課程禮盒
+T_ITEM_NAME_43039@史嘉莉－健身課程禮盒
+T_ITEM_NAME_43040@Momona - Gym Training Pack
+T_ITEM_NAME_43041@Hilda－Workout Training Pack
+T_ITEM_NAME_43042@Natasha - Workout Training Pack
+T_ITEM_NAME_43043@Haruko - Workout Training Pack
+T_ITEM_NAME_43044@Aurora - Workout Training Pack
+T_ITEM_NAME_70@水花派對券
+T_ITEM_NAME_721@每日營養棒禮包
+T_ITEM_NAME_722@每週營養棒禮包
+T_ITEM_NAME_723@每月營養棒禮包
+T_ITEM_NAME_859@Workout Potential x15 Pack
+T_ITEM_NAME_860@Workout Potential x20 Pack
+T_ITEM_NAME_861@Workout Potential x100 Pack
+T_ITEM_NAME_942@健身課程自選禮包
+T_ITEM_NAME_SpeG0011@Workout Training Pack
+T_ITEM_NAME_SpeG0012@Rhythm Workout Training Choice Pack
+T_ITEM_NAME_SpeG0013@Hip Thrust Workout Training Choice Pack
+T_ITEM_NAME_SpeG0014@Yoga Ball Workout Training Choice Pack
+T_ITEM_NAME_SpeG0015@Sexiness Workout Training Choice Pack
+T_ITEM_NAME_SpeG0016@Charming Workout Training Choice Pack
+T_ITEM_NAME_SpeG0017@Pull-Up Workout Training Choice Pack
+T_Mail_Title_14@水花派對日回饋獎勵
+T_Mail_Title_15@水花派對週回饋獎勵
+T_Mail_Title_21@水槍大集合排行獎勵
+T_Mail_Title_265@儲值確認信件
+T_NewStore_NameKey_112@健身－噴射潛能
+T_NewStore_NameKey_113@健身－補給潛能
+T_NewStore_NameKey_114@健身－激戰潛能
+T_NewStore_NameKey_115@健身－滋養潛能
+T_NewStore_NameKey_118@營養棒
+T_NewStore_NameKey_1721@每日營養棒禮包
+T_NewStore_NameKey_1722@每週營養棒禮包
+T_NewStore_NameKey_1723@每月營養棒禮包
+T_NewStore_NameKey_1741@每日營養棒禮包(活動)
+T_NewStore_NameKey_197@健身－爆射潛能
+T_NewStore_NameKey_198@健身－絕頂潛能
+T_NewStore_NameKey_210009@茜音－性感圖片 1
+T_NewStore_NameKey_210010@燈歌－性感圖片 1
+T_NewStore_NameKey_210011@加奈－性感圖片 1
+T_NewStore_NameKey_210012@華乃－性感圖片 1
+T_NewStore_NameKey_220001@唯－圖片 1
+T_NewStore_NameKey_220002@莉娜－圖片 1
+T_NewStore_NameKey_2nd_006@健身課程自選禮包
+T_NewStore_NameKey_2nd_056@健身課程隨機禮包
+T_NewStore_NameKey_RandomSex001@Workout Training Pack
+T_ObtainWay_Title_10@水槍大集合
+T_ObtainWay_Title_5@宿舍健身
+T_ObtainWay_Title_9@水花派對
+T_Quest_Info_1706@Join 10 matches in ‘Squirt Gun Assembly’
+T_Quest_Info_1707@Perform Workout or Unique Training 50 times
+T_Quest_Info_20@「水槍大集合」模式對戰 5 次
+T_Quest_Info_2507@Perform Wedding Interaction with Scarlett 10 times
+T_Quest_Info_2508@Perform Wedding Interaction with Scarlett 30 times
+T_Quest_Info_2509@Perform Wedding Interaction with Scarlett 50 times
+T_Quest_Info_2517@Perform Wedding Interaction with Momona 10 times
+T_Quest_Info_2518@Perform Wedding Interaction with Momona 30 times
+T_Quest_Info_2519@Perform Wedding Interaction with Momona 50 times
+T_Quest_Info_27@Join 10 matches in ‘Wave Rave’
+T_Quest_Info_28@Join 30 matches in ‘Wave Rave’
+T_Quest_Info_29@Join 50 matches in ‘Wave Rave’
+T_Quest_Info_30@Join 80 matches in ‘Wave Rave’
+T_Quest_Info_31@Join 100 matches in ‘Wave Rave’
+T_Quest_Info_8@「水花派對」模式對戰 5 次
+T_RuneLevel_SpecialAttributeTIP_151001_1@攻擊值+3%，生命值+6%，水花派對模式中，傷害再+3%
+T_RuneLevel_SpecialAttributeTIP_151001_2@攻擊值+5%，生命值+10%，水花派對模式中，傷害再+5%
+T_RuneLevel_SpecialAttributeTIP_151001_3@攻擊值+7%，生命值+14%，水花派對模式中，傷害再+7%
+T_RuneLevel_SpecialAttributeTIP_151001_4@攻擊值+10%，生命值+20%，水花派對模式中，傷害再+10%
+T_RuneLevel_SpecialAttributeTIP_151001_5@攻擊值+15%，生命值+30%，水花派對模式中，傷害再+15%
+T_RuneLevel_SpecialAttributeTIP_151001_6@攻擊值+20%，生命值+40%，水花派對模式中，傷害再+20%
+T_RuneLevel_SpecialAttributeTIP_151004_7@ATK+25%, HP+50%. In Wave Rave mode, ATK+25%
+T_RuneLevel_SpecialAttributeTIP_151008_8@ATK+30%, HP+60%. In Wave Rave mode, ATK+30%
+T_SCENE_Name_6@水花派對
+T_SCENE_Name_7@水槍大集合
+T_SCENE_Name_8@水槍大集合
+T_Story_Name_57@催眠！訓練中毒
+T_Story_Name_98@絕佳的幸運日
+T_Story_Title_1@Normal
+T_Story_Title_3@Normal
+T_TrainingAction_Description_310001@核心階段需與女孩親密度達到等級 12 方可解鎖
+T_TrainingAction_Name_310001@臀推健身
+T_TrainingAction_Name_310101@韻律健身
+T_TrainingAction_Name_310201@瑜珈球健身
+T_TrainingAction_Name_310301@性感健身
+T_TrainingAction_Name_310401@魅力健身
+T_TrainingAction_Name_310501@引體向上
+T_TrainingAction_Name_320101@結婚互動
+T_TrainingAction_Step2Description_310001@核心階段需擁有對應女孩的健身課程方可解鎖，可透過轉蛋或禮包取得\n進行課程有機率可獲得獨特的「噴射潛能」喔！
+T_TrainingAction_Step2Description_310101@核心階段需擁有對應女孩的健身課程方可解鎖，可透過轉蛋或禮包取得\n進行課程有機率可獲得獨特的「補給潛能」喔！
+T_TrainingAction_Step2Description_310201@核心階段需擁有對應女孩的健身課程方可解鎖，可透過轉蛋或禮包取得\n進行課程有機率可獲得獨特的「激戰潛能」喔！
+T_TrainingAction_Step2Description_310301@核心階段需擁有對應女孩的健身課程方可解鎖，可透過轉蛋或禮包取得\n進行課程有機率可獲得獨特的「滋養潛能」喔！
+T_TrainingAction_Step2Description_310318@核心階段需擁有對應女孩的健身課程方可解鎖，可透過轉蛋或禮包取得\n進行課程有機率可獲得獨特的「爆射潛能」喔！
+T_TrainingAction_Step2Description_310401@核心階段需擁有對應女孩的健身課程方可解鎖，可透過轉蛋或禮包取得\n進行課程有機率可獲得獨特的「絕頂潛能」喔！
+T_VipClass_Prerogatives_10@<size=36>閃耀等級 10 特權</size>\n\n◆包含<color=#fe5229>閃耀等級9</color>所有特權項目\n◆可購買<color=#fe5229>閃耀等級10專屬禮包</color>\n◆抽取女孩轉蛋機<color=#fe5229>額外獲得少女心願50個</color>\n◆每日可透過閃耀商店領取<color=#fe5229>閃耀等級10免費禮包</color>\n◆每日免費快速開啟戰鬥禮盒提高為3次\n◆抽取主題時裝轉蛋機額外獲得活動代幣提高為50個\n◆健身課程獲得2倍數量潛能的機率提高為50%\n◆抽取裝備轉蛋機額外獲得的對應的裝備硬幣提高為50個\n◆每週透過戰鬥獲得的額外金幣上限提高為9000\n◆水槍競賽模式的金幣獲得量提高為100%\n◆水花派對模式的金幣獲得量提高為80%\n◆水槍競賽模式的親密度獲得量提高為100%\n◆水槍競賽模式的熟練度獲得量提高為150%\n◆<color=#fe5229>儲值到閃耀等級12，累積7000個閃耀水槍即可超值購入具有強力應援技能的攻擊型團員！</color>
+T_VipClass_Prerogatives_11@<size=36>閃耀等級 11 特權</size>\n\n◆包含<color=#fe5229>閃耀等級10</color>所有特權項目\n◆可購買<color=#fe5229>閃耀等級11專屬禮包</color>\n◆抽取女孩轉蛋機額外獲得少女心願提高為60個\n◆每日可額外購買應援團體力4次\n◆協力守衛戰模式的金幣獲得量提高為100%\n◆水槍大集合模式的金幣獲得量提高為80%\n◆協力守衛戰模式的親密度獲得量提高為130%\n◆水槍大集合模式的親密度獲得量提高為80%\n◆協力守衛戰模式的熟練度獲得量提高為120%\n◆水槍大集合模式的熟練度獲得量提高為170%\n◆<color=#fe5229>儲值到閃耀等級12，累積7000個閃耀水槍即可超值購入具有強力應援技能的攻擊型團員！</color>
+T_VipClass_Prerogatives_12@<size=36>閃耀等級 12 特權</size>\n\n◆包含<color=#fe5229>閃耀等級11</color>所有特權項目\n◆可購買<color=#fe5229>閃耀等級12專屬禮包</color>\n◆解鎖<color=#fe5229>閃耀等級12級專屬每日任務</color>\n◆抽取主題時裝轉蛋機額外獲得活動代幣提高為60個\n◆抽取裝備轉蛋機額外獲得的對應的裝備硬幣提高為70個\n◆每週透過戰鬥獲得的額外金幣上限提高為11000\n◆特別訓練獲得2倍數量潛能的機率提高為60%\n◆健身課程獲得2倍數量潛能的機率提高為60%\n◆水槍競賽模式的金幣獲得量提高為120%\n◆水花派對模式的金幣獲得量提高為100%\n◆水槍競賽模式的熟練度獲得量提高為170%\n◆<color=#fe5229>儲值到閃耀等級13，累積8000個閃耀水槍即可超值購入麗子的美味甜甜圈，能將親密等級提升至3級喔！</color>
+T_VipClass_Prerogatives_13@<size=36>閃耀等級 13 特權</size>\n\n◆包含<color=#fe5229>閃耀等級12</color>所有特權項目\n◆可購買<color=#fe5229>閃耀等級13專屬禮包</color>\n◆抽取女孩轉蛋機額外獲得少女心願提高為70個\n◆抽取健身轉蛋機額外獲得營養棒提高為40個\n◆協力守衛戰模式的金幣獲得量提高為120%\n◆水槍大集合模式的金幣獲得量提高為100%\n◆水槍競賽模式的親密度獲得量提高為130%\n◆協力守衛戰模式的親密度獲得量提高為160%\n◆水槍大集合模式的親密度獲得量提高為110%\n◆協力守衛戰模式的熟練度獲得量提高為140%\n◆<color=#fe5229>儲值到閃耀等級14，累積9000個閃耀水槍即可超值購入麗子的美味甜甜圈，能將親密等級提升至4級喔！</color>
+T_VipClass_Prerogatives_14@<size=36>閃耀等級 14 特權</size>\n\n◆包含<color=#fe5229>閃耀等級13</color>所有特權項目\n◆可購買<color=#fe5229>閃耀等級14專屬禮包</color>\n◆抽取主題時裝轉蛋機額外獲得活動代幣提高70個\n◆抽取裝備轉蛋機額外獲得的對應的裝備硬幣提高為90個\n◆每日可額外購買應援團體力5次\n◆健身課程獲得2倍數量潛能的機率提高為70%\n◆每週透過戰鬥獲得的額外金幣上限提高為13000\n◆水槍競賽模式的金幣獲得量提高為140%\n◆水花派對模式的金幣獲得量提高為120%\n◆水槍競賽模式的熟練度獲得量提高為200%\n◆水槍大集合模式的熟練度獲得量提高為200%\n◆<color=#fe5229>儲值到閃耀等級15，累積10000個閃耀水槍即可超值購入麗子的美味甜甜圈，能將親密等級提升至5級喔！</color>
+T_VipClass_Prerogatives_15@<size=36>閃耀等級 15 特權</size>\n\n◆包含<color=#fe5229>閃耀等級14</color>所有特權項目\n◆可購買<color=#fe5229>閃耀等級15專屬禮包</color>\n◆每日可透過閃耀商店領取<color=#fe5229>閃耀等級15免費禮包</color>\n◆抽取女孩轉蛋機額外獲得少女心願提高為90個\n◆特別訓練獲得2倍數量潛能的機率提高為70%\n◆協力守衛戰模式的金幣獲得量提高為140%\n◆水槍大集合模式的金幣獲得量提高為120%\n◆水槍競賽模式的親密度獲得量提高為160%\n◆協力守衛戰模式的親密度獲得量提高為200%\n◆水槍大集合模式的親密度獲得量提高為140%\n◆協力守衛戰模式的熟練度獲得量提高為160%
+T_VipClass_Prerogatives_3@<size=36>閃耀等級 3 特權</size>\n\n◆包含<color=#fe5229>閃耀等級2</color>所有特權項目\n◆可購買<color=#fe5229>閃耀等級3專屬禮包獲得咲！</color>\n◆每日可透過閃耀商店領取<color=#fe5229>閃耀等級3免費禮包</color>\n◆協力守衛戰模式的<color=#fe5229>金幣獲得量增加20%</color>\n◆水槍大集合模式的<color=#fe5229>熟練度獲得量增加50%</color>\n◆特別訓練<color=#fe5229>獲得的潛能有20%機率獲得2倍數量</color>\n◆解鎖<color=#fe5229>閃耀等級3級專屬每日任務</color>\n◆水槍競賽模式的金幣獲得量提高為40%\n◆<color=#fe5229>儲值到閃耀等級4即可超值購入咲的特別訓練課程擊巔峰潛能！</color>
+T_VipClass_Prerogatives_4@<size=36>閃耀等級 4 特權</size>\n\n◆包含<color=#fe5229>閃耀等級3</color>所有特權項目\n◆可購買<color=#fe5229>閃耀等級4專屬禮包</color>\n◆水花派對模式的<color=#fe5229>金幣獲得量增加20%</color>\n◆抽取健身轉蛋機<color=#fe5229>額外獲得營養棒10個</color>\n◆每日<color=#fe5229>免費快速開啟戰鬥禮盒1次</color>\n◆每日可額外購買應援團體力2次\n◆每週透過戰鬥獲得的額外金幣上限提高為3000\n◆<color=#fe5229>儲值到閃耀等級5即可超值購入咲的專屬飾品！</color>
+T_VipClass_Prerogatives_5@<size=36>閃耀等級 5 特權</size>\n\n◆包含<color=#fe5229>閃耀等級4</color>所有特權項目\n◆可購買<color=#fe5229>閃耀等級5專屬禮包</color>\n◆每日可透過閃耀商店領取<color=#fe5229>閃耀等級5免費禮包</color>\n◆水槍大集合模式的<color=#fe5229>金幣獲得量增加20%</color>\n◆協力守衛戰模式的<color=#fe5229>熟練度獲得量增加50%</color>\n◆特別訓練獲得2倍數量潛能的機率提高為30%\n◆協力守衛戰模式的金幣獲得量提高為40%\n◆水槍競賽模式的熟練度獲得量提高為100%\n◆<color=#fe5229>儲值到閃耀等級6即可超值購入特級女孩！</color>
+T_VipClass_Prerogatives_6@<size=36>閃耀等級 6 特權</size>\n\n◆包含<color=#fe5229>閃耀等級5</color>所有特權項目\n◆可購買<color=#fe5229>閃耀等級6專屬禮包</color>\n◆協力守衛戰模式的<color=#fe5229>親密度獲得量增加50%</color>\n◆抽取健身轉蛋機額外獲得營養棒提高為20個\n◆水槍競賽模式的金幣獲得量提高為60%\n◆水花派對模式的金幣獲得量提高為40%\n◆每週透過戰鬥獲得的額外金幣上限提高為5000\n◆水槍大集合模式的熟練度獲得量提高為100%\n◆<color=#fe5229>儲值到閃耀等級7即可超值購入咲的專屬飾品！</color>
+T_VipClass_Prerogatives_7@<size=36>閃耀等級 7 特權</size>\n\n◆包含<color=#fe5229>閃耀等級6</color>所有特權項目\n◆可購買<color=#fe5229>閃耀等級7專屬禮包</color>\n◆水槍競賽模式的<color=#fe5229>親密度獲得量增加50%</color>\n◆每日免費快速開啟戰鬥禮盒提高為2次\n◆特別訓練獲得2倍數量潛能的機率提高為40%\n◆協力守衛戰模式的金幣獲得量提高為60%\n◆水槍大集合模式的金幣獲得量提高為40%\n◆<color=#fe5229>儲值到閃耀等級8即可超值購入咲的時裝及限定特級女孩！</color>
+T_VipClass_Prerogatives_8@<size=36>閃耀等級 8 特權</size>\n\n◆包含<color=#fe5229>閃耀等級7</color>所有特權項目\n◆可購買<color=#fe5229>閃耀等級8專屬禮包</color>\n◆健身課程<color=#fe5229>獲得的潛能有30%機率獲得2倍數量</color>\n◆抽取主題時裝轉蛋機<color=#fe5229>額外獲得活動代幣30個</color>\n◆每日可額外購買應援團體力3次\n◆抽取健身轉蛋機額外獲得營養棒提高為30個\n◆每週透過戰鬥獲得的額外金幣上限提高為7000\n◆水槍競賽模式的金幣獲得量提高為80%\n◆水花派對模式的金幣獲得量提高為60%\n◆協力守衛戰模式的親密度獲得量提高為100%\n◆協力守衛戰模式的熟練度獲得量提高為100%\n◆<color=#fe5229>儲值到閃耀等級9，累積3000個閃耀水槍即可超值購入咲的專屬飾品及極限潛能！</color>
+T_VipClass_Prerogatives_9@<size=36>閃耀等級 9 特權</size>\n\n◆包含<color=#fe5229>閃耀等級8</color>所有特權項目\n◆可購買<color=#fe5229>閃耀等級9專屬禮包</color>\n◆水槍大集合模式的<color=#fe5229>親密度獲得量增加50%</color>\n◆抽取裝備轉蛋機<color=#fe5229>額外獲得對應的裝備硬幣20個</color>\n◆解鎖<color=#fe5229>閃耀等級9級專屬每日任務</color>\n◆特別訓練獲得2倍數量潛能的機率提高為50%\n◆協力守衛戰模式的金幣獲得量提高為80%\n◆水槍大集合模式的金幣獲得量提高為60%\n◆水槍大集合模式的熟練度獲得量提高為150%\n◆<color=#fe5229>儲值到閃耀等級10，累積5001個閃耀水槍即可超值購入咲的健身課程及限定特級女孩自選禮包！</color>
+UI_CollectionBook_Type4@健身
+UI_CollectionBook_Type7@Pin-up Picture
+UI_CustomGiftPagination_03@健身
+UI_Drama_Sex@健身
+UI_FairyCheer_LvExplain@Raise Intimacy Level to obtain more Cheerfulness upon each tapping.
+UI_Lobby_Party_EN@Water Party
+UI_PVP1V1_BuyKeyCost@是否要花費{0}寶石購買水花派對券
+UI_RollEgg_Group3@健身
+UI_SexTip@擁有健身課程道具就能與女孩進行健身互動，快透過限定轉蛋取得吧！
+UI_SpecialTraining_Fight@ 
+UI_VariousShops_InsufficientInfo@少女心願不足，轉蛋機轉到重複時裝、特別訓練課程、健身課程時可以獲得少女心願

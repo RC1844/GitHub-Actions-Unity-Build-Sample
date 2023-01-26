@@ -1,0 +1,1 @@
+ID,Names,ModelNames,ModelNames_Awake,LobbyEffect,IconNames,Live2DPartNames,TwoDImageNames,UIShowSound,DisableImage,EffectUI,VoiceUI1,VoiceUI2,VoiceUI3,BattleSkillTitle,BattleBuffTitle,HouseKeepTitle,HousekeepingInfo,NormalSkillTitle,PetTitle,Element

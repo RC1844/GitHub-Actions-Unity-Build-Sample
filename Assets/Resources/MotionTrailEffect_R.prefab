@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!4 &1791024914494830742
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1791024914444499092}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1791024914494830743}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &1791024914494830743
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1791024914444499093}
+  m_LocalRotation: {x: 1, y: -1.629207E-07, z: -5.205486E-07, w: 8.480812E-14}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1791024914494830742}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1791024914444499092
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1791024914494830742}
+  - component: {fileID: 1791024916340324504}
+  m_Layer: 11
+  m_Name: "MotionTrailEffect_R"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1791024914444499093
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1791024914494830743}
+  - component: {fileID: 1791024916340324505}
+  m_Layer: 11
+  m_Name: "MotionTrailEffect"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1791024916340324504
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1791024914444499092}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -269878469, guid: c705dda2eaffac996b2458b5dca9d6ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  LiveTime: 0.3
+  BindBoneName: "R_Hand_WP"
+  ShiftPosition: {x: 0, y: 0, z: 0}
+  Sound: {fileID: 0}
+  BindHPBarHeight: 0
+  CameraShakeSetting:
+    Vector: {x: 0.5, y: 0.5, z: 0.5}
+    Frequency: 80
+    ShakePeriod: 0
+  CameraShakeTime: 0
+  CreateOnBoneName: 
+  IsRefrenceBoneRotation: 0
+  RefrenceBoneRotation: {x: 0, y: 0, z: 0}
+  IsScaleByModel: 1
+  IsFollowByEffectScale: 0
+  DestroyEffect: {fileID: 0}
+  m_OwnerMissile: {fileID: 0}
+  IsWaitForDestory: 0
+  HideInSFW: 0
+  m_ExplosionMissile: {fileID: 0}
+  m_HitOwnerCharacter: {fileID: 0}
+  m_CollectOwnerCharacter: {fileID: 0}

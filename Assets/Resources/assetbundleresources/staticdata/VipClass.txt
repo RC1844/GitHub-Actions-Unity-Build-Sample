@@ -1,0 +1,17 @@
+Class,Threshold,Prerogatives,ExtraTreasureBoxFree,ExtraFairyEnergyBuy,ExtraMoneyLimitForWeek,ExtraGameTypeGold,ExtraGameTypeRoleIntimacy,ExtraGameTypeRoleExp,SexTwiceRuneRate,TrainTwiceRuneRate,VersionControl
+,,T_VipClass_Prerogatives_0,,1,,,,,,,
+1,6,T_VipClass_Prerogatives_1,,1,,1=120,,,,,
+2,15,T_VipClass_Prerogatives_2,,1,1000,1=120,,1=150,,,
+3,90,T_VipClass_Prerogatives_3,,1,1000,1=140-3=120,,1=150-6=150,,20,
+4,150,T_VipClass_Prerogatives_4,1,2,3000,1=140-3=120-5=120,,1=150-6=150,,20,
+5,300,T_VipClass_Prerogatives_5,1,2,3000,1=140-3=140-5=120-6=120,,1=200-6=150-3=150,,30,
+6,600,T_VipClass_Prerogatives_6,1,2,5000,1=160-3=140-5=140-6=120,3=150,1=200-6=200-3=150,,30,
+7,1000,T_VipClass_Prerogatives_7,2,2,5000,1=160-3=160-5=140-6=140,3=150-1=150,1=200-6=200-3=150,,40,
+8,2000,T_VipClass_Prerogatives_8,2,3,7000,1=180-3=160-5=160-6=140,3=200-1=150,1=200-6=200-3=200,30,40,
+9,3000,T_VipClass_Prerogatives_9,2,3,7000,1=180-3=180-5=160-6=160,3=200-1=150-6=150,1=200-6=250-3=200,30,50,
+10,5000,T_VipClass_Prerogatives_10,3,3,9000,1=200-3=180-5=180-6=160,3=200-1=200-6=150,1=250-6=250-3=200,50,50,
+11,6000,T_VipClass_Prerogatives_11,3,4,9000,1=200-3=200-5=180-6=180,3=230-1=200-6=180,1=250-6=270-3=220,50,50,62
+12,7000,T_VipClass_Prerogatives_12,3,4,11000,1=220-3=200-5=200-6=180,3=230-1=200-6=180,1=270-6=270-3=220,60,60,62
+13,8000,T_VipClass_Prerogatives_13,3,4,11000,1=220-3=220-5=200-6=200,3=260-1=230-6=210,1=270-6=270-3=240,60,60,62
+14,9000,T_VipClass_Prerogatives_14,3,5,13000,1=240-3=220-5=220-6=200,3=260-1=230-6=210,1=300-6=300-3=240,70,60,62
+15,10000,T_VipClass_Prerogatives_15,3,5,13000,1=240-3=240-5=220-6=220,3=300-1=260-6=240,1=300-6=300-3=260,70,70,62
